@@ -1,0 +1,9007 @@
+Puzzle #1
+3 1 4 
+0 7 2 
+6 8 5 
+
+0 1 2
+3 4 5
+6 7 8
+Solution:          
+length of solution: 9
+states checked: 1286
+time taken: 0.0083
+
+Puzzle #2
+1 4 2 
+3 7 0 
+6 8 5 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0006
+
+Puzzle #3
+5 6 4 
+1 3 0 
+7 8 2 
+Solution:                  
+length of solution: 17
+states checked: 74139
+time taken: 0.3647
+
+Puzzle #4
+3 1 2 
+0 8 4 
+6 7 5 
+Solution:          
+length of solution: 9
+states checked: 799
+time taken: 0.0039
+
+Puzzle #5
+1 4 2 
+0 3 7 
+6 8 5 
+Solution:        
+length of solution: 7
+states checked: 325
+time taken: 0.0017
+
+Puzzle #6
+1 0 2 
+3 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0001
+
+Puzzle #7
+6 3 2 
+0 1 5 
+7 4 8 
+Solution:        
+length of solution: 7
+states checked: 386
+time taken: 0.0019
+
+Puzzle #8
+1 0 2 
+6 4 5 
+7 3 8 
+Solution:        
+length of solution: 7
+states checked: 260
+time taken: 0.0013
+
+Puzzle #9
+1 6 2 
+3 4 5 
+7 0 8 
+Solution:          
+length of solution: 9
+states checked: 1297
+time taken: 0.0062
+
+Puzzle #10
+3 0 7 
+4 2 1 
+6 8 5 
+Solution:            
+length of solution: 11
+states checked: 2785
+time taken: 0.0133
+
+Puzzle #11
+1 0 2 
+3 6 5 
+7 4 8 
+Solution:        
+length of solution: 7
+states checked: 401
+time taken: 0.0020
+
+Puzzle #12
+1 2 5 
+3 8 0 
+6 4 7 
+Solution:        
+length of solution: 7
+states checked: 293
+time taken: 0.0015
+
+Puzzle #13
+3 1 2 
+7 5 0 
+4 6 8 
+Solution:        
+length of solution: 7
+states checked: 323
+time taken: 0.0016
+
+Puzzle #14
+3 1 2 
+4 5 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 24
+time taken: 0.0002
+
+Puzzle #15
+4 3 2 
+6 1 5 
+7 0 8 
+Solution:        
+length of solution: 7
+states checked: 315
+time taken: 0.0016
+
+Puzzle #16
+3 0 2 
+4 1 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 23
+time taken: 0.0002
+
+Puzzle #17
+3 1 2 
+6 5 0 
+7 4 8 
+Solution:      
+length of solution: 5
+states checked: 90
+time taken: 0.0005
+
+Puzzle #18
+1 2 5 
+6 3 8 
+4 0 7 
+Solution:          
+length of solution: 9
+states checked: 910
+time taken: 0.0044
+
+Puzzle #19
+7 0 5 
+2 1 4 
+3 6 8 
+Solution:              
+length of solution: 13
+states checked: 9323
+time taken: 0.0446
+
+Puzzle #20
+1 7 2 
+3 5 0 
+4 6 8 
+Solution:          
+length of solution: 9
+states checked: 1137
+time taken: 0.0054
+
+Puzzle #21
+3 1 5 
+0 2 4 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 394
+time taken: 0.0020
+
+Puzzle #22
+3 1 2 
+7 5 0 
+4 6 8 
+Solution:        
+length of solution: 7
+states checked: 323
+time taken: 0.0016
+
+Puzzle #23
+3 2 5 
+4 7 1 
+6 0 8 
+Solution:        
+length of solution: 7
+states checked: 350
+time taken: 0.0018
+
+Puzzle #24
+1 0 2 
+3 6 5 
+7 4 8 
+Solution:        
+length of solution: 7
+states checked: 401
+time taken: 0.0020
+
+Puzzle #25
+1 2 5 
+0 3 8 
+6 4 7 
+Solution:        
+length of solution: 7
+states checked: 293
+time taken: 0.0015
+
+Puzzle #26
+4 0 1 
+7 3 2 
+6 8 5 
+Solution:            
+length of solution: 11
+states checked: 3146
+time taken: 0.0150
+
+Puzzle #27
+3 0 2 
+6 1 5 
+7 4 8 
+Solution:      
+length of solution: 5
+states checked: 75
+time taken: 0.0005
+
+Puzzle #28
+3 1 2 
+0 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0001
+
+Puzzle #29
+3 2 5 
+6 1 0 
+7 4 8 
+Solution:        
+length of solution: 7
+states checked: 386
+time taken: 0.0019
+
+Puzzle #30
+3 1 2 
+6 4 0 
+7 8 5 
+Solution:      
+length of solution: 5
+states checked: 70
+time taken: 0.0004
+
+Puzzle #31
+1 4 2 
+3 5 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 26
+time taken: 0.0002
+
+Puzzle #32
+1 2 5 
+0 4 8 
+3 6 7 
+Solution:        
+length of solution: 7
+states checked: 246
+time taken: 0.0013
+
+Puzzle #33
+6 1 2 
+4 8 0 
+7 5 3 
+Solution:                
+length of solution: 15
+states checked: 23659
+time taken: 0.1128
+
+Puzzle #34
+5 0 4 
+1 3 8 
+6 2 7 
+Solution:              
+length of solution: 13
+states checked: 11378
+time taken: 0.0536
+
+Puzzle #35
+6 1 2 
+0 4 5 
+7 3 8 
+Solution:          
+length of solution: 9
+states checked: 1201
+time taken: 0.0058
+
+Puzzle #36
+3 2 5 
+1 6 8 
+4 0 7 
+Solution:            
+length of solution: 11
+states checked: 3488
+time taken: 0.0166
+
+Puzzle #37
+4 0 2 
+1 7 5 
+3 6 8 
+Solution:        
+length of solution: 7
+states checked: 390
+time taken: 0.0019
+
+Puzzle #38
+1 0 2 
+3 6 5 
+7 4 8 
+Solution:        
+length of solution: 7
+states checked: 401
+time taken: 0.0020
+
+Puzzle #39
+3 1 2 
+6 4 5 
+7 0 8 
+Solution:    
+length of solution: 3
+states checked: 20
+time taken: 0.0002
+
+Puzzle #40
+4 3 2 
+1 7 5 
+6 0 8 
+Solution:        
+length of solution: 7
+states checked: 382
+time taken: 0.0019
+
+Puzzle #41
+1 6 2 
+4 5 0 
+3 7 8 
+Solution:              
+length of solution: 13
+states checked: 9549
+time taken: 0.0462
+
+Puzzle #42
+2 4 5 
+3 1 0 
+6 7 8 
+Solution:            
+length of solution: 11
+states checked: 3569
+time taken: 0.0168
+
+Puzzle #43
+4 3 2 
+6 1 5 
+7 0 8 
+Solution:        
+length of solution: 7
+states checked: 315
+time taken: 0.0016
+
+Puzzle #44
+1 5 4 
+0 7 2 
+3 6 8 
+Solution:          
+length of solution: 9
+states checked: 872
+time taken: 0.0042
+
+Puzzle #45
+1 0 5 
+3 2 4 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 83
+time taken: 0.0005
+
+Puzzle #46
+2 7 5 
+0 1 4 
+3 6 8 
+Solution:            
+length of solution: 11
+states checked: 3489
+time taken: 0.0165
+
+Puzzle #47
+4 3 2 
+0 1 5 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 118
+time taken: 0.0007
+
+Puzzle #48
+3 5 1 
+6 2 0 
+7 4 8 
+Solution:          
+length of solution: 9
+states checked: 1105
+time taken: 0.0053
+
+Puzzle #49
+3 1 2 
+4 5 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 24
+time taken: 0.0002
+
+Puzzle #50
+2 5 4 
+1 7 0 
+3 6 8 
+Solution:            
+length of solution: 11
+states checked: 3918
+time taken: 0.0184
+
+Puzzle #51
+4 0 3 
+1 5 8 
+6 2 7 
+Solution:                
+length of solution: 15
+states checked: 21641
+time taken: 0.1032
+
+Puzzle #52
+4 3 2 
+6 1 5 
+7 0 8 
+Solution:        
+length of solution: 7
+states checked: 315
+time taken: 0.0016
+
+Puzzle #53
+3 2 7 
+0 1 5 
+4 6 8 
+Solution:              
+length of solution: 13
+states checked: 7286
+time taken: 0.0349
+
+Puzzle #54
+4 3 2 
+1 7 0 
+6 8 5 
+Solution:          
+length of solution: 9
+states checked: 852
+time taken: 0.0042
+
+Puzzle #55
+4 3 2 
+0 1 5 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 118
+time taken: 0.0007
+
+Puzzle #56
+1 5 4 
+3 7 0 
+6 8 2 
+Solution:          
+length of solution: 9
+states checked: 872
+time taken: 0.0042
+
+Puzzle #57
+3 2 5 
+0 1 8 
+4 6 7 
+Solution:          
+length of solution: 9
+states checked: 785
+time taken: 0.0038
+
+Puzzle #58
+1 5 4 
+6 2 8 
+7 0 3 
+Solution:              
+length of solution: 13
+states checked: 7190
+time taken: 0.0343
+
+Puzzle #59
+3 1 2 
+5 8 0 
+4 6 7 
+Solution:          
+length of solution: 9
+states checked: 997
+time taken: 0.0048
+
+Puzzle #60
+4 2 5 
+1 3 8 
+6 0 7 
+Solution:          
+length of solution: 9
+states checked: 887
+time taken: 0.0044
+
+Puzzle #61
+2 5 7 
+1 8 0 
+3 6 4 
+Solution:                
+length of solution: 15
+states checked: 35395
+time taken: 0.1678
+
+Puzzle #62
+6 1 2 
+0 4 8 
+7 5 3 
+Solution:              
+length of solution: 13
+states checked: 10897
+time taken: 0.0517
+
+Puzzle #63
+3 0 1 
+4 5 2 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 104
+time taken: 0.0006
+
+Puzzle #64
+1 0 2 
+3 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0001
+
+Puzzle #65
+1 2 5 
+0 7 4 
+3 6 8 
+Solution:        
+length of solution: 7
+states checked: 257
+time taken: 0.0013
+
+Puzzle #66
+3 5 1 
+6 4 0 
+7 8 2 
+Solution:            
+length of solution: 11
+states checked: 2372
+time taken: 0.0116
+
+Puzzle #67
+3 1 2 
+6 4 5 
+7 0 8 
+Solution:    
+length of solution: 3
+states checked: 20
+time taken: 0.0002
+
+Puzzle #68
+1 4 2 
+0 7 8 
+3 5 6 
+Solution:            
+length of solution: 11
+states checked: 2773
+time taken: 0.0134
+
+Puzzle #69
+1 4 2 
+0 5 8 
+3 6 7 
+Solution:        
+length of solution: 7
+states checked: 243
+time taken: 0.0013
+
+Puzzle #70
+1 6 2 
+3 4 0 
+7 8 5 
+Solution:            
+length of solution: 11
+states checked: 2697
+time taken: 0.0130
+
+Puzzle #71
+4 5 3 
+1 2 8 
+6 0 7 
+Solution:              
+length of solution: 13
+states checked: 7660
+time taken: 0.0366
+
+Puzzle #72
+3 1 2 
+6 4 0 
+7 8 5 
+Solution:      
+length of solution: 5
+states checked: 70
+time taken: 0.0004
+
+Puzzle #73
+1 4 2 
+3 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 29
+time taken: 0.0002
+
+Puzzle #74
+1 4 2 
+6 3 0 
+7 8 5 
+Solution:        
+length of solution: 7
+states checked: 243
+time taken: 0.0013
+
+Puzzle #75
+6 3 1 
+0 4 2 
+7 8 5 
+Solution:          
+length of solution: 9
+states checked: 1277
+time taken: 0.0061
+
+Puzzle #76
+6 3 2 
+1 4 5 
+7 0 8 
+Solution:          
+length of solution: 9
+states checked: 1190
+time taken: 0.0057
+
+Puzzle #77
+6 3 2 
+0 1 4 
+7 8 5 
+Solution:          
+length of solution: 9
+states checked: 1212
+time taken: 0.0058
+
+Puzzle #78
+3 1 2 
+6 4 0 
+7 8 5 
+Solution:      
+length of solution: 5
+states checked: 70
+time taken: 0.0004
+
+Puzzle #79
+3 2 5 
+4 1 0 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 118
+time taken: 0.0007
+
+Puzzle #80
+3 0 2 
+6 1 5 
+7 4 8 
+Solution:      
+length of solution: 5
+states checked: 75
+time taken: 0.0005
+
+Puzzle #81
+3 5 1 
+4 2 0 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 355
+time taken: 0.0018
+
+Puzzle #82
+1 2 5 
+7 4 8 
+3 0 6 
+Solution:            
+length of solution: 11
+states checked: 2413
+time taken: 0.0116
+
+Puzzle #83
+2 0 5 
+4 1 7 
+6 8 3 
+Solution:                
+length of solution: 15
+states checked: 35216
+time taken: 0.1670
+
+Puzzle #84
+1 8 2 
+3 4 5 
+6 0 7 
+Solution:            
+length of solution: 11
+states checked: 3807
+time taken: 0.0193
+
+Puzzle #85
+3 5 1 
+0 2 8 
+4 6 7 
+Solution:            
+length of solution: 11
+states checked: 2372
+time taken: 0.0124
+
+Puzzle #86
+1 4 2 
+0 3 7 
+6 8 5 
+Solution:        
+length of solution: 7
+states checked: 325
+time taken: 0.0018
+
+Puzzle #87
+1 0 5 
+3 2 7 
+6 8 4 
+Solution:          
+length of solution: 9
+states checked: 866
+time taken: 0.0046
+
+Puzzle #88
+2 1 5 
+0 3 8 
+4 6 7 
+Solution:              
+length of solution: 13
+states checked: 10473
+time taken: 0.0558
+
+Puzzle #89
+3 1 2 
+0 7 5 
+6 8 4 
+Solution:            
+length of solution: 11
+states checked: 3918
+time taken: 0.0215
+
+Puzzle #90
+3 1 4 
+0 7 2 
+6 8 5 
+Solution:          
+length of solution: 9
+states checked: 1286
+time taken: 0.0072
+
+Puzzle #91
+3 1 2 
+6 8 4 
+7 0 5 
+Solution:        
+length of solution: 7
+states checked: 329
+time taken: 0.0020
+
+Puzzle #92
+1 0 2 
+3 4 8 
+6 5 7 
+Solution:        
+length of solution: 7
+states checked: 245
+time taken: 0.0015
+
+Puzzle #93
+7 1 2 
+0 4 5 
+3 6 8 
+Solution:          
+length of solution: 9
+states checked: 1253
+time taken: 0.0072
+
+Puzzle #94
+1 0 4 
+6 5 2 
+7 3 8 
+Solution:          
+length of solution: 9
+states checked: 1099
+time taken: 0.0063
+
+Puzzle #95
+3 0 1 
+6 4 2 
+7 8 5 
+Solution:        
+length of solution: 7
+states checked: 336
+time taken: 0.0020
+
+Puzzle #96
+1 0 4 
+3 5 7 
+6 8 2 
+Solution:            
+length of solution: 11
+states checked: 2717
+time taken: 0.0155
+
+Puzzle #97
+7 8 1 
+3 6 2 
+4 0 5 
+Solution:                
+length of solution: 15
+states checked: 35724
+time taken: 0.2167
+
+Puzzle #98
+6 3 1 
+4 8 2 
+7 0 5 
+Solution:            
+length of solution: 11
+states checked: 3701
+time taken: 0.0238
+
+Puzzle #99
+2 0 5 
+1 8 7 
+3 6 4 
+Solution:              
+length of solution: 13
+states checked: 10883
+time taken: 0.0717
+
+Puzzle #100
+3 1 2 
+4 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 27
+time taken: 0.0003
+
+Puzzle #101
+1 4 2 
+3 5 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 76
+time taken: 0.0006
+
+Puzzle #102
+3 1 2 
+0 4 7 
+6 8 5 
+Solution:        
+length of solution: 7
+states checked: 323
+time taken: 0.0023
+
+Puzzle #103
+3 0 2 
+6 1 5 
+7 4 8 
+Solution:      
+length of solution: 5
+states checked: 75
+time taken: 0.0006
+
+Puzzle #104
+4 3 1 
+0 5 2 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 415
+time taken: 0.0029
+
+Puzzle #105
+1 4 2 
+3 5 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 26
+time taken: 0.0003
+
+Puzzle #106
+1 5 4 
+6 3 2 
+7 0 8 
+Solution:          
+length of solution: 9
+states checked: 974
+time taken: 0.0068
+
+Puzzle #107
+3 1 2 
+0 6 5 
+7 4 8 
+Solution:      
+length of solution: 5
+states checked: 90
+time taken: 0.0008
+
+Puzzle #108
+1 3 5 
+0 2 8 
+4 6 7 
+Solution:              
+length of solution: 13
+states checked: 11499
+time taken: 0.0787
+
+Puzzle #109
+1 2 5 
+6 3 4 
+7 0 8 
+Solution:        
+length of solution: 7
+states checked: 295
+time taken: 0.0022
+
+Puzzle #110
+1 4 2 
+0 3 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 26
+time taken: 0.0003
+
+Puzzle #111
+1 4 2 
+3 8 0 
+6 5 7 
+Solution:        
+length of solution: 7
+states checked: 290
+time taken: 0.0022
+
+Puzzle #112
+1 4 2 
+0 3 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 26
+time taken: 0.0003
+
+Puzzle #113
+3 0 2 
+8 4 1 
+6 5 7 
+Solution:                  
+length of solution: 17
+states checked: 77170
+time taken: 0.5893
+
+Puzzle #114
+1 3 4 
+6 8 0 
+7 5 2 
+Solution:              
+length of solution: 13
+states checked: 7995
+time taken: 0.0657
+
+Puzzle #115
+5 1 3 
+7 2 0 
+4 6 8 
+Solution:                    
+length of solution: 19
+states checked: 259571
+time taken: 2.4900
+
+Puzzle #116
+3 1 2 
+6 4 7 
+8 0 5 
+Solution:          
+length of solution: 9
+states checked: 940
+time taken: 0.0097
+
+Puzzle #117
+5 2 4 
+0 1 8 
+3 6 7 
+Solution:                
+length of solution: 15
+states checked: 31550
+time taken: 0.3186
+
+Puzzle #118
+3 1 2 
+0 8 6 
+7 4 5 
+Solution:              
+length of solution: 13
+states checked: 7402
+time taken: 0.0754
+
+Puzzle #119
+3 2 8 
+4 1 7 
+6 0 5 
+Solution:            
+length of solution: 11
+states checked: 2584
+time taken: 0.0265
+
+Puzzle #120
+3 2 5 
+0 4 1 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 337
+time taken: 0.0036
+
+Puzzle #121
+3 0 2 
+4 1 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 23
+time taken: 0.0004
+
+Puzzle #122
+1 2 5 
+0 3 4 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 98
+time taken: 0.0012
+
+Puzzle #123
+6 1 2 
+5 4 3 
+7 0 8 
+Solution:                
+length of solution: 15
+states checked: 30948
+time taken: 0.3145
+
+Puzzle #124
+1 0 5 
+3 2 4 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 83
+time taken: 0.0011
+
+Puzzle #125
+2 5 4 
+1 7 3 
+6 0 8 
+Solution:            
+length of solution: 11
+states checked: 3433
+time taken: 0.0349
+
+Puzzle #126
+3 1 2 
+4 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 27
+time taken: 0.0005
+
+Puzzle #127
+4 3 2 
+6 1 5 
+7 0 8 
+Solution:        
+length of solution: 7
+states checked: 315
+time taken: 0.0034
+
+Puzzle #128
+3 1 2 
+7 6 5 
+4 0 8 
+Solution:        
+length of solution: 7
+states checked: 287
+time taken: 0.0032
+
+Puzzle #129
+1 6 2 
+3 5 8 
+7 0 4 
+Solution:            
+length of solution: 11
+states checked: 2550
+time taken: 0.0263
+
+Puzzle #130
+3 1 2 
+0 6 5 
+7 4 8 
+Solution:      
+length of solution: 5
+states checked: 90
+time taken: 0.0011
+
+Puzzle #131
+2 4 5 
+1 6 8 
+3 0 7 
+Solution:            
+length of solution: 11
+states checked: 3907
+time taken: 0.0396
+
+Puzzle #132
+1 4 2 
+0 3 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 26
+time taken: 0.0005
+
+Puzzle #133
+2 0 5 
+1 3 4 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 409
+time taken: 0.0044
+
+Puzzle #134
+1 2 5 
+3 7 4 
+6 0 8 
+Solution:      
+length of solution: 5
+states checked: 105
+time taken: 0.0013
+
+Puzzle #135
+3 2 5 
+6 1 0 
+7 4 8 
+Solution:        
+length of solution: 7
+states checked: 386
+time taken: 0.0041
+
+Puzzle #136
+1 0 2 
+3 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #137
+3 0 2 
+4 1 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 23
+time taken: 0.0004
+
+Puzzle #138
+3 5 1 
+7 6 2 
+4 0 8 
+Solution:            
+length of solution: 11
+states checked: 2934
+time taken: 0.0300
+
+Puzzle #139
+1 0 5 
+3 2 4 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 83
+time taken: 0.0011
+
+Puzzle #140
+3 0 4 
+6 2 5 
+7 1 8 
+Solution:              
+length of solution: 13
+states checked: 7281
+time taken: 0.0795
+
+Puzzle #141
+3 1 2 
+4 5 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 24
+time taken: 0.0005
+
+Puzzle #142
+3 1 2 
+0 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #143
+1 2 5 
+6 3 4 
+7 0 8 
+Solution:        
+length of solution: 7
+states checked: 295
+time taken: 0.0036
+
+Puzzle #144
+4 0 8 
+1 2 5 
+3 6 7 
+Solution:              
+length of solution: 13
+states checked: 8542
+time taken: 0.0881
+
+Puzzle #145
+3 0 5 
+4 2 1 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 292
+time taken: 0.0032
+
+Puzzle #146
+6 1 4 
+3 8 2 
+7 0 5 
+Solution:              
+length of solution: 13
+states checked: 11188
+time taken: 0.1132
+
+Puzzle #147
+3 1 2 
+6 4 5 
+7 0 8 
+Solution:    
+length of solution: 3
+states checked: 20
+time taken: 0.0004
+
+Puzzle #148
+1 2 5 
+6 3 4 
+7 0 8 
+Solution:        
+length of solution: 7
+states checked: 295
+time taken: 0.0032
+
+Puzzle #149
+3 1 2 
+0 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #150
+3 5 1 
+7 2 0 
+4 6 8 
+Solution:            
+length of solution: 11
+states checked: 3144
+time taken: 0.0321
+
+Puzzle #151
+3 2 5 
+4 1 8 
+6 0 7 
+Solution:        
+length of solution: 7
+states checked: 270
+time taken: 0.0030
+
+Puzzle #152
+1 8 2 
+3 7 5 
+4 0 6 
+Solution:                
+length of solution: 15
+states checked: 23150
+time taken: 0.2379
+
+Puzzle #153
+3 0 2 
+6 1 5 
+7 4 8 
+Solution:      
+length of solution: 5
+states checked: 75
+time taken: 0.0010
+
+Puzzle #154
+4 0 2 
+1 3 8 
+6 5 7 
+Solution:          
+length of solution: 9
+states checked: 1231
+time taken: 0.0127
+
+Puzzle #155
+1 4 2 
+6 3 5 
+7 0 8 
+Solution:      
+length of solution: 5
+states checked: 91
+time taken: 0.0012
+
+Puzzle #156
+4 0 2 
+1 3 5 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 121
+time taken: 0.0015
+
+Puzzle #157
+7 3 2 
+1 6 5 
+4 0 8 
+Solution:            
+length of solution: 11
+states checked: 3675
+time taken: 0.0374
+
+Puzzle #158
+1 5 4 
+0 3 2 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 357
+time taken: 0.0038
+
+Puzzle #159
+1 4 2 
+6 5 0 
+7 3 8 
+Solution:        
+length of solution: 7
+states checked: 305
+time taken: 0.0033
+
+Puzzle #160
+3 8 1 
+0 7 2 
+6 4 5 
+Solution:                    
+length of solution: 19
+states checked: 221254
+time taken: 2.2307
+
+Puzzle #161
+1 5 8 
+3 2 0 
+6 4 7 
+Solution:          
+length of solution: 9
+states checked: 1189
+time taken: 0.0123
+
+Puzzle #162
+3 2 4 
+8 1 0 
+6 7 5 
+Solution:              
+length of solution: 13
+states checked: 11513
+time taken: 0.1174
+
+Puzzle #163
+1 2 5 
+6 3 0 
+4 7 8 
+Solution:            
+length of solution: 11
+states checked: 2310
+time taken: 0.0241
+
+Puzzle #164
+3 0 2 
+6 1 4 
+7 8 5 
+Solution:        
+length of solution: 7
+states checked: 271
+time taken: 0.0030
+
+Puzzle #165
+3 0 7 
+4 2 1 
+6 8 5 
+Solution:            
+length of solution: 11
+states checked: 2785
+time taken: 0.0286
+
+Puzzle #166
+3 5 4 
+2 1 0 
+6 7 8 
+Solution:            
+length of solution: 11
+states checked: 3863
+time taken: 0.0395
+
+Puzzle #167
+1 4 2 
+3 5 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 76
+time taken: 0.0010
+
+Puzzle #168
+1 6 2 
+3 5 0 
+7 4 8 
+Solution:          
+length of solution: 9
+states checked: 1150
+time taken: 0.0120
+
+Puzzle #169
+1 5 6 
+0 3 2 
+7 4 8 
+Solution:              
+length of solution: 13
+states checked: 10409
+time taken: 0.1068
+
+Puzzle #170
+6 3 2 
+7 5 0 
+4 1 8 
+Solution:            
+length of solution: 11
+states checked: 2981
+time taken: 0.0308
+
+Puzzle #171
+1 4 2 
+3 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 29
+time taken: 0.0005
+
+Puzzle #172
+3 1 2 
+0 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #173
+3 1 2 
+0 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #174
+3 1 2 
+6 7 4 
+5 0 8 
+Solution:              
+length of solution: 13
+states checked: 9620
+time taken: 0.0990
+
+Puzzle #175
+3 0 5 
+1 2 8 
+4 6 7 
+Solution:            
+length of solution: 11
+states checked: 2926
+time taken: 0.0304
+
+Puzzle #176
+1 4 2 
+6 3 5 
+7 0 8 
+Solution:      
+length of solution: 5
+states checked: 91
+time taken: 0.0011
+
+Puzzle #177
+3 5 1 
+0 7 2 
+4 6 8 
+Solution:          
+length of solution: 9
+states checked: 870
+time taken: 0.0092
+
+Puzzle #178
+4 2 5 
+0 1 3 
+6 7 8 
+Solution:          
+length of solution: 9
+states checked: 1074
+time taken: 0.0111
+
+Puzzle #179
+1 0 2 
+3 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #180
+1 0 2 
+3 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #181
+4 3 2 
+1 5 0 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 337
+time taken: 0.0036
+
+Puzzle #182
+5 0 4 
+1 7 8 
+3 2 6 
+Solution:                  
+length of solution: 17
+states checked: 65229
+time taken: 0.6706
+
+Puzzle #183
+7 3 1 
+5 6 2 
+4 0 8 
+Solution:              
+length of solution: 13
+states checked: 11268
+time taken: 0.1144
+
+Puzzle #184
+1 4 2 
+6 3 5 
+7 0 8 
+Solution:      
+length of solution: 5
+states checked: 91
+time taken: 0.0011
+
+Puzzle #185
+1 2 5 
+0 3 4 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 98
+time taken: 0.0012
+
+Puzzle #186
+1 4 2 
+0 7 5 
+3 6 8 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0010
+
+Puzzle #187
+4 6 2 
+0 3 5 
+1 7 8 
+Solution:              
+length of solution: 13
+states checked: 8204
+time taken: 0.0838
+
+Puzzle #188
+4 5 2 
+0 1 8 
+7 3 6 
+Solution:                
+length of solution: 15
+states checked: 31518
+time taken: 0.3205
+
+Puzzle #189
+3 5 1 
+7 6 0 
+4 8 2 
+Solution:              
+length of solution: 13
+states checked: 7172
+time taken: 0.0737
+
+Puzzle #190
+1 0 2 
+3 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #191
+1 2 5 
+6 4 8 
+7 0 3 
+Solution:            
+length of solution: 11
+states checked: 2359
+time taken: 0.0242
+
+Puzzle #192
+1 0 5 
+3 2 8 
+6 4 7 
+Solution:        
+length of solution: 7
+states checked: 248
+time taken: 0.0027
+
+Puzzle #193
+3 2 5 
+0 1 8 
+6 7 4 
+Solution:            
+length of solution: 11
+states checked: 2403
+time taken: 0.0246
+
+Puzzle #194
+1 4 2 
+0 3 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 26
+time taken: 0.0005
+
+Puzzle #195
+3 2 5 
+6 4 7 
+8 0 1 
+Solution:              
+length of solution: 13
+states checked: 8655
+time taken: 0.0883
+
+Puzzle #196
+3 1 2 
+0 4 7 
+6 8 5 
+Solution:        
+length of solution: 7
+states checked: 323
+time taken: 0.0035
+
+Puzzle #197
+3 1 2 
+0 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #198
+3 1 2 
+4 5 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 24
+time taken: 0.0004
+
+Puzzle #199
+3 0 1 
+6 5 2 
+7 4 8 
+Solution:        
+length of solution: 7
+states checked: 356
+time taken: 0.0038
+
+Puzzle #200
+6 3 1 
+4 2 5 
+7 0 8 
+Solution:              
+length of solution: 13
+states checked: 7510
+time taken: 0.0767
+
+Puzzle #201
+4 2 5 
+1 3 0 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 417
+time taken: 0.0045
+
+Puzzle #202
+1 6 3 
+0 4 2 
+7 8 5 
+Solution:                
+length of solution: 15
+states checked: 35675
+time taken: 0.3496
+
+Puzzle #203
+3 1 2 
+0 7 5 
+4 6 8 
+Solution:      
+length of solution: 5
+states checked: 77
+time taken: 0.0010
+
+Puzzle #204
+3 1 5 
+2 4 0 
+6 7 8 
+Solution:          
+length of solution: 9
+states checked: 1051
+time taken: 0.0104
+
+Puzzle #205
+4 0 2 
+1 7 5 
+3 6 8 
+Solution:        
+length of solution: 7
+states checked: 390
+time taken: 0.0040
+
+Puzzle #206
+8 0 2 
+1 3 5 
+6 4 7 
+Solution:              
+length of solution: 13
+states checked: 11951
+time taken: 0.1165
+
+Puzzle #207
+3 1 2 
+6 8 4 
+7 0 5 
+Solution:        
+length of solution: 7
+states checked: 329
+time taken: 0.0034
+
+Puzzle #208
+3 1 2 
+6 5 0 
+7 4 8 
+Solution:      
+length of solution: 5
+states checked: 90
+time taken: 0.0011
+
+Puzzle #209
+4 0 3 
+1 7 2 
+6 8 5 
+Solution:            
+length of solution: 11
+states checked: 3290
+time taken: 0.0318
+
+Puzzle #210
+4 0 3 
+8 2 1 
+6 5 7 
+Solution:                
+length of solution: 15
+states checked: 31836
+time taken: 0.3105
+
+Puzzle #211
+4 3 1 
+0 5 2 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 415
+time taken: 0.0043
+
+Puzzle #212
+3 1 2 
+4 7 0 
+6 8 5 
+Solution:      
+length of solution: 5
+states checked: 77
+time taken: 0.0009
+
+Puzzle #213
+1 4 2 
+6 3 0 
+8 5 7 
+Solution:            
+length of solution: 11
+states checked: 2342
+time taken: 0.0230
+
+Puzzle #214
+3 0 2 
+4 1 7 
+6 8 5 
+Solution:        
+length of solution: 7
+states checked: 278
+time taken: 0.0029
+
+Puzzle #215
+1 2 5 
+0 3 8 
+6 4 7 
+Solution:        
+length of solution: 7
+states checked: 293
+time taken: 0.0031
+
+Puzzle #216
+3 1 2 
+4 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 27
+time taken: 0.0005
+
+Puzzle #217
+1 4 2 
+6 3 7 
+8 0 5 
+Solution:          
+length of solution: 9
+states checked: 942
+time taken: 0.0093
+
+Puzzle #218
+1 5 4 
+3 7 2 
+6 0 8 
+Solution:        
+length of solution: 7
+states checked: 402
+time taken: 0.0041
+
+Puzzle #219
+3 0 5 
+4 2 1 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 292
+time taken: 0.0030
+
+Puzzle #220
+3 2 5 
+6 1 8 
+7 0 4 
+Solution:          
+length of solution: 9
+states checked: 856
+time taken: 0.0085
+
+Puzzle #221
+3 1 4 
+0 6 2 
+7 5 8 
+Solution:            
+length of solution: 11
+states checked: 3012
+time taken: 0.0293
+
+Puzzle #222
+6 3 2 
+1 4 5 
+7 0 8 
+Solution:          
+length of solution: 9
+states checked: 1190
+time taken: 0.0117
+
+Puzzle #223
+3 0 2 
+5 1 8 
+6 7 4 
+Solution:            
+length of solution: 11
+states checked: 2898
+time taken: 0.0282
+
+Puzzle #224
+1 2 5 
+3 4 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0010
+
+Puzzle #225
+3 7 1 
+4 2 0 
+6 8 5 
+Solution:          
+length of solution: 9
+states checked: 1092
+time taken: 0.0108
+
+Puzzle #226
+1 2 8 
+5 4 0 
+6 7 3 
+Solution:                
+length of solution: 15
+states checked: 34546
+time taken: 0.3336
+
+Puzzle #227
+4 3 2 
+0 1 8 
+6 5 7 
+Solution:          
+length of solution: 9
+states checked: 1184
+time taken: 0.0116
+
+Puzzle #228
+1 4 2 
+3 5 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 76
+time taken: 0.0009
+
+Puzzle #229
+1 0 2 
+6 4 5 
+7 3 8 
+Solution:        
+length of solution: 7
+states checked: 260
+time taken: 0.0027
+
+Puzzle #230
+1 2 5 
+0 8 7 
+3 6 4 
+Solution:            
+length of solution: 11
+states checked: 2310
+time taken: 0.0227
+
+Puzzle #231
+1 0 4 
+7 5 2 
+3 6 8 
+Solution:          
+length of solution: 9
+states checked: 1119
+time taken: 0.0110
+
+Puzzle #232
+1 0 2 
+3 6 5 
+7 4 8 
+Solution:        
+length of solution: 7
+states checked: 401
+time taken: 0.0041
+
+Puzzle #233
+1 5 4 
+0 3 2 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 357
+time taken: 0.0036
+
+Puzzle #234
+2 3 5 
+1 7 4 
+6 0 8 
+Solution:          
+length of solution: 9
+states checked: 1305
+time taken: 0.0127
+
+Puzzle #235
+3 1 2 
+6 5 0 
+7 4 8 
+Solution:      
+length of solution: 5
+states checked: 90
+time taken: 0.0011
+
+Puzzle #236
+1 0 4 
+3 5 8 
+6 2 7 
+Solution:            
+length of solution: 11
+states checked: 2376
+time taken: 0.0233
+
+Puzzle #237
+3 1 2 
+4 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 27
+time taken: 0.0005
+
+Puzzle #238
+3 0 2 
+6 1 8 
+7 5 4 
+Solution:          
+length of solution: 9
+states checked: 759
+time taken: 0.0076
+
+Puzzle #239
+3 0 2 
+4 1 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 23
+time taken: 0.0004
+
+Puzzle #240
+3 2 5 
+4 1 8 
+6 0 7 
+Solution:        
+length of solution: 7
+states checked: 270
+time taken: 0.0028
+
+Puzzle #241
+3 0 7 
+4 2 1 
+6 8 5 
+Solution:            
+length of solution: 11
+states checked: 2785
+time taken: 0.0271
+
+Puzzle #242
+6 3 1 
+7 2 0 
+4 5 8 
+Solution:              
+length of solution: 13
+states checked: 9118
+time taken: 0.0889
+
+Puzzle #243
+1 2 5 
+3 4 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 29
+time taken: 0.0005
+
+Puzzle #244
+6 3 2 
+1 5 0 
+7 4 8 
+Solution:          
+length of solution: 9
+states checked: 1043
+time taken: 0.0103
+
+Puzzle #245
+2 0 5 
+1 6 4 
+7 3 8 
+Solution:            
+length of solution: 11
+states checked: 3826
+time taken: 0.0378
+
+Puzzle #246
+3 2 8 
+4 1 7 
+6 0 5 
+Solution:            
+length of solution: 11
+states checked: 2584
+time taken: 0.0253
+
+Puzzle #247
+3 8 1 
+0 4 2 
+6 5 7 
+Solution:            
+length of solution: 11
+states checked: 3373
+time taken: 0.0328
+
+Puzzle #248
+1 0 5 
+3 2 4 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 83
+time taken: 0.0010
+
+Puzzle #249
+1 4 2 
+6 5 0 
+7 3 8 
+Solution:        
+length of solution: 7
+states checked: 305
+time taken: 0.0032
+
+Puzzle #250
+3 4 1 
+8 7 2 
+6 0 5 
+Solution:              
+length of solution: 13
+states checked: 10807
+time taken: 0.1042
+
+Puzzle #251
+3 1 5 
+0 2 8 
+6 4 7 
+Solution:          
+length of solution: 9
+states checked: 1189
+time taken: 0.0117
+
+Puzzle #252
+1 0 2 
+3 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #253
+4 3 2 
+0 1 7 
+6 8 5 
+Solution:          
+length of solution: 9
+states checked: 1219
+time taken: 0.0122
+
+Puzzle #254
+3 1 2 
+0 4 8 
+6 5 7 
+Solution:        
+length of solution: 7
+states checked: 288
+time taken: 0.0032
+
+Puzzle #255
+3 0 1 
+2 7 5 
+6 8 4 
+Solution:              
+length of solution: 13
+states checked: 9848
+time taken: 0.1018
+
+Puzzle #256
+1 4 2 
+3 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 29
+time taken: 0.0005
+
+Puzzle #257
+4 7 3 
+1 8 2 
+6 0 5 
+Solution:              
+length of solution: 13
+states checked: 11434
+time taken: 0.1164
+
+Puzzle #258
+1 0 2 
+3 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #259
+3 0 1 
+6 4 2 
+7 8 5 
+Solution:        
+length of solution: 7
+states checked: 336
+time taken: 0.0037
+
+Puzzle #260
+1 5 2 
+0 3 8 
+4 6 7 
+Solution:            
+length of solution: 11
+states checked: 3473
+time taken: 0.0355
+
+Puzzle #261
+3 2 5 
+4 1 0 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 118
+time taken: 0.0014
+
+Puzzle #262
+1 4 2 
+3 5 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 76
+time taken: 0.0010
+
+Puzzle #263
+3 0 2 
+6 1 4 
+7 8 5 
+Solution:        
+length of solution: 7
+states checked: 271
+time taken: 0.0030
+
+Puzzle #264
+3 1 2 
+4 5 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 24
+time taken: 0.0004
+
+Puzzle #265
+1 7 2 
+3 6 5 
+4 0 8 
+Solution:          
+length of solution: 9
+states checked: 1284
+time taken: 0.0131
+
+Puzzle #266
+4 5 2 
+0 1 7 
+3 8 6 
+Solution:                
+length of solution: 15
+states checked: 25603
+time taken: 0.2589
+
+Puzzle #267
+1 4 2 
+0 3 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 26
+time taken: 0.0005
+
+Puzzle #268
+3 1 2 
+6 4 0 
+7 8 5 
+Solution:      
+length of solution: 5
+states checked: 70
+time taken: 0.0009
+
+Puzzle #269
+3 1 2 
+6 5 0 
+7 4 8 
+Solution:      
+length of solution: 5
+states checked: 90
+time taken: 0.0011
+
+Puzzle #270
+6 3 5 
+7 2 1 
+4 0 8 
+Solution:              
+length of solution: 13
+states checked: 9324
+time taken: 0.0949
+
+Puzzle #271
+3 1 2 
+6 8 0 
+7 5 4 
+Solution:          
+length of solution: 9
+states checked: 799
+time taken: 0.0083
+
+Puzzle #272
+3 1 2 
+0 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #273
+4 3 2 
+1 7 5 
+6 0 8 
+Solution:        
+length of solution: 7
+states checked: 382
+time taken: 0.0041
+
+Puzzle #274
+4 3 2 
+5 8 0 
+1 6 7 
+Solution:              
+length of solution: 13
+states checked: 9206
+time taken: 0.0931
+
+Puzzle #275
+3 5 1 
+6 4 0 
+7 8 2 
+Solution:            
+length of solution: 11
+states checked: 2372
+time taken: 0.0244
+
+Puzzle #276
+3 1 2 
+0 4 8 
+6 5 7 
+Solution:        
+length of solution: 7
+states checked: 288
+time taken: 0.0032
+
+Puzzle #277
+7 3 4 
+0 1 2 
+6 8 5 
+Solution:              
+length of solution: 13
+states checked: 10782
+time taken: 0.1109
+
+Puzzle #278
+6 3 2 
+0 1 4 
+7 8 5 
+Solution:          
+length of solution: 9
+states checked: 1212
+time taken: 0.0127
+
+Puzzle #279
+2 3 5 
+1 8 0 
+6 4 7 
+Solution:            
+length of solution: 11
+states checked: 3525
+time taken: 0.0362
+
+Puzzle #280
+3 1 2 
+4 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 27
+time taken: 0.0005
+
+Puzzle #281
+4 6 1 
+0 3 2 
+7 8 5 
+Solution:              
+length of solution: 13
+states checked: 10773
+time taken: 0.1113
+
+Puzzle #282
+5 3 4 
+0 1 2 
+6 7 8 
+Solution:            
+length of solution: 11
+states checked: 3589
+time taken: 0.0368
+
+Puzzle #283
+2 4 3 
+0 7 5 
+1 6 8 
+Solution:                
+length of solution: 15
+states checked: 24396
+time taken: 0.2513
+
+Puzzle #284
+3 1 2 
+4 5 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 74
+time taken: 0.0010
+
+Puzzle #285
+3 0 2 
+4 1 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 23
+time taken: 0.0004
+
+Puzzle #286
+3 7 1 
+0 4 2 
+6 8 5 
+Solution:          
+length of solution: 9
+states checked: 1092
+time taken: 0.0112
+
+Puzzle #287
+4 3 2 
+0 1 7 
+6 8 5 
+Solution:          
+length of solution: 9
+states checked: 1219
+time taken: 0.0125
+
+Puzzle #288
+1 4 2 
+6 5 0 
+7 3 8 
+Solution:        
+length of solution: 7
+states checked: 305
+time taken: 0.0033
+
+Puzzle #289
+4 0 2 
+1 7 5 
+3 6 8 
+Solution:        
+length of solution: 7
+states checked: 390
+time taken: 0.0042
+
+Puzzle #290
+1 4 2 
+0 3 8 
+6 5 7 
+Solution:        
+length of solution: 7
+states checked: 290
+time taken: 0.0032
+
+Puzzle #291
+1 2 5 
+3 4 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 29
+time taken: 0.0005
+
+Puzzle #292
+4 2 5 
+0 1 7 
+3 6 8 
+Solution:            
+length of solution: 11
+states checked: 3281
+time taken: 0.0332
+
+Puzzle #293
+1 5 4 
+3 2 0 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 357
+time taken: 0.0039
+
+Puzzle #294
+3 1 2 
+5 8 0 
+4 6 7 
+Solution:          
+length of solution: 9
+states checked: 997
+time taken: 0.0103
+
+Puzzle #295
+1 2 5 
+3 4 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0011
+
+Puzzle #296
+3 1 2 
+0 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #297
+5 0 4 
+2 1 3 
+6 7 8 
+Solution:              
+length of solution: 13
+states checked: 11873
+time taken: 0.1207
+
+Puzzle #298
+3 2 5 
+4 7 1 
+6 0 8 
+Solution:        
+length of solution: 7
+states checked: 350
+time taken: 0.0038
+
+Puzzle #299
+3 0 2 
+6 1 5 
+7 4 8 
+Solution:      
+length of solution: 5
+states checked: 75
+time taken: 0.0010
+
+Puzzle #300
+3 1 2 
+4 7 0 
+6 8 5 
+Solution:      
+length of solution: 5
+states checked: 77
+time taken: 0.0010
+
+Puzzle #301
+3 1 2 
+4 5 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 24
+time taken: 0.0004
+
+Puzzle #302
+3 2 5 
+0 7 1 
+4 6 8 
+Solution:          
+length of solution: 9
+states checked: 820
+time taken: 0.0086
+
+Puzzle #303
+4 0 2 
+1 3 5 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 121
+time taken: 0.0015
+
+Puzzle #304
+3 2 5 
+4 1 0 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 118
+time taken: 0.0014
+
+Puzzle #305
+3 7 1 
+4 2 0 
+6 8 5 
+Solution:          
+length of solution: 9
+states checked: 1092
+time taken: 0.0113
+
+Puzzle #306
+1 0 2 
+6 4 7 
+8 3 5 
+Solution:            
+length of solution: 11
+states checked: 2491
+time taken: 0.0257
+
+Puzzle #307
+3 1 2 
+6 8 4 
+7 0 5 
+Solution:        
+length of solution: 7
+states checked: 329
+time taken: 0.0036
+
+Puzzle #308
+3 1 2 
+0 7 5 
+4 6 8 
+Solution:      
+length of solution: 5
+states checked: 77
+time taken: 0.0010
+
+Puzzle #309
+3 0 5 
+7 2 8 
+4 1 6 
+Solution:              
+length of solution: 13
+states checked: 7320
+time taken: 0.0753
+
+Puzzle #310
+3 1 2 
+0 7 5 
+4 6 8 
+Solution:      
+length of solution: 5
+states checked: 77
+time taken: 0.0010
+
+Puzzle #311
+5 0 4 
+1 7 2 
+3 6 8 
+Solution:            
+length of solution: 11
+states checked: 3739
+time taken: 0.0381
+
+Puzzle #312
+1 4 2 
+0 7 5 
+3 6 8 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0010
+
+Puzzle #313
+3 5 1 
+0 4 2 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 355
+time taken: 0.0038
+
+Puzzle #314
+1 2 5 
+6 3 4 
+7 0 8 
+Solution:        
+length of solution: 7
+states checked: 295
+time taken: 0.0032
+
+Puzzle #315
+4 0 2 
+1 7 5 
+3 6 8 
+Solution:        
+length of solution: 7
+states checked: 390
+time taken: 0.0042
+
+Puzzle #316
+4 1 2 
+5 3 0 
+6 7 8 
+Solution:            
+length of solution: 11
+states checked: 3884
+time taken: 0.0397
+
+Puzzle #317
+3 2 5 
+4 1 0 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 118
+time taken: 0.0014
+
+Puzzle #318
+3 0 2 
+6 1 4 
+7 8 5 
+Solution:        
+length of solution: 7
+states checked: 271
+time taken: 0.0030
+
+Puzzle #319
+3 1 2 
+4 5 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 24
+time taken: 0.0004
+
+Puzzle #320
+3 0 5 
+6 2 1 
+7 4 8 
+Solution:          
+length of solution: 9
+states checked: 896
+time taken: 0.0093
+
+Puzzle #321
+3 1 5 
+0 2 4 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 394
+time taken: 0.0042
+
+Puzzle #322
+7 1 2 
+0 3 4 
+6 8 5 
+Solution:                
+length of solution: 15
+states checked: 27858
+time taken: 0.2833
+
+Puzzle #323
+3 5 1 
+4 2 0 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 355
+time taken: 0.0038
+
+Puzzle #324
+4 0 2 
+1 3 5 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 121
+time taken: 0.0015
+
+Puzzle #325
+1 2 5 
+3 4 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0010
+
+Puzzle #326
+1 0 5 
+7 2 4 
+3 6 8 
+Solution:          
+length of solution: 9
+states checked: 958
+time taken: 0.0099
+
+Puzzle #327
+3 1 2 
+6 5 8 
+7 0 4 
+Solution:        
+length of solution: 7
+states checked: 242
+time taken: 0.0027
+
+Puzzle #328
+2 0 5 
+1 3 4 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 409
+time taken: 0.0043
+
+Puzzle #329
+4 0 2 
+8 3 7 
+1 6 5 
+Solution:                
+length of solution: 15
+states checked: 26774
+time taken: 0.2727
+
+Puzzle #330
+4 3 2 
+1 5 0 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 337
+time taken: 0.0037
+
+Puzzle #331
+4 3 2 
+0 1 5 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 118
+time taken: 0.0014
+
+Puzzle #332
+1 0 7 
+3 2 4 
+6 8 5 
+Solution:            
+length of solution: 11
+states checked: 2787
+time taken: 0.0271
+
+Puzzle #333
+6 3 2 
+0 1 5 
+7 4 8 
+Solution:        
+length of solution: 7
+states checked: 386
+time taken: 0.0039
+
+Puzzle #334
+3 0 2 
+4 6 5 
+7 1 8 
+Solution:            
+length of solution: 11
+states checked: 3846
+time taken: 0.0372
+
+Puzzle #335
+3 1 2 
+0 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #336
+4 0 7 
+1 6 2 
+3 8 5 
+Solution:              
+length of solution: 13
+states checked: 9936
+time taken: 0.0963
+
+Puzzle #337
+4 3 2 
+0 1 5 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 118
+time taken: 0.0014
+
+Puzzle #338
+7 0 2 
+1 3 5 
+4 6 8 
+Solution:            
+length of solution: 11
+states checked: 3113
+time taken: 0.0302
+
+Puzzle #339
+3 0 2 
+4 1 8 
+6 5 7 
+Solution:        
+length of solution: 7
+states checked: 243
+time taken: 0.0026
+
+Puzzle #340
+3 1 2 
+4 5 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 74
+time taken: 0.0009
+
+Puzzle #341
+1 4 2 
+6 3 5 
+7 0 8 
+Solution:      
+length of solution: 5
+states checked: 91
+time taken: 0.0011
+
+Puzzle #342
+1 2 5 
+3 4 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 29
+time taken: 0.0005
+
+Puzzle #343
+3 2 5 
+4 1 0 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 118
+time taken: 0.0013
+
+Puzzle #344
+1 4 2 
+3 5 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 76
+time taken: 0.0009
+
+Puzzle #345
+4 3 2 
+0 1 5 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 118
+time taken: 0.0013
+
+Puzzle #346
+1 0 5 
+3 2 4 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 83
+time taken: 0.0010
+
+Puzzle #347
+3 1 2 
+6 4 5 
+7 0 8 
+Solution:    
+length of solution: 3
+states checked: 20
+time taken: 0.0004
+
+Puzzle #348
+3 7 1 
+4 2 0 
+6 8 5 
+Solution:          
+length of solution: 9
+states checked: 1092
+time taken: 0.0107
+
+Puzzle #349
+3 0 1 
+4 5 2 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 104
+time taken: 0.0012
+
+Puzzle #350
+2 0 7 
+3 1 5 
+4 6 8 
+Solution:                
+length of solution: 15
+states checked: 32434
+time taken: 0.3116
+
+Puzzle #351
+4 0 2 
+7 3 5 
+1 6 8 
+Solution:            
+length of solution: 11
+states checked: 2993
+time taken: 0.0290
+
+Puzzle #352
+1 2 5 
+6 3 0 
+7 8 4 
+Solution:          
+length of solution: 9
+states checked: 765
+time taken: 0.0076
+
+Puzzle #353
+1 3 4 
+2 5 0 
+6 7 8 
+Solution:                  
+length of solution: 17
+states checked: 83237
+time taken: 0.8409
+
+Puzzle #354
+1 2 5 
+0 3 8 
+6 4 7 
+Solution:        
+length of solution: 7
+states checked: 293
+time taken: 0.0031
+
+Puzzle #355
+1 2 5 
+3 4 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0011
+
+Puzzle #356
+2 0 5 
+1 4 8 
+3 6 7 
+Solution:          
+length of solution: 9
+states checked: 1187
+time taken: 0.0117
+
+Puzzle #357
+1 4 2 
+0 5 8 
+3 6 7 
+Solution:        
+length of solution: 7
+states checked: 243
+time taken: 0.0026
+
+Puzzle #358
+3 1 2 
+0 5 8 
+6 7 4 
+Solution:          
+length of solution: 9
+states checked: 757
+time taken: 0.0075
+
+Puzzle #359
+1 2 5 
+3 8 7 
+6 0 4 
+Solution:          
+length of solution: 9
+states checked: 763
+time taken: 0.0076
+
+Puzzle #360
+1 0 4 
+3 5 2 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 106
+time taken: 0.0012
+
+Puzzle #361
+4 5 3 
+0 1 2 
+6 7 8 
+Solution:            
+length of solution: 11
+states checked: 3422
+time taken: 0.0331
+
+Puzzle #362
+1 0 5 
+3 2 4 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 83
+time taken: 0.0010
+
+Puzzle #363
+3 7 1 
+4 8 2 
+6 0 5 
+Solution:          
+length of solution: 9
+states checked: 1239
+time taken: 0.0121
+
+Puzzle #364
+1 2 7 
+3 4 0 
+6 8 5 
+Solution:          
+length of solution: 9
+states checked: 1221
+time taken: 0.0120
+
+Puzzle #365
+6 8 2 
+1 4 0 
+3 7 5 
+Solution:                  
+length of solution: 17
+states checked: 95615
+time taken: 1.0112
+
+Puzzle #366
+3 2 5 
+4 1 8 
+6 0 7 
+Solution:        
+length of solution: 7
+states checked: 270
+time taken: 0.0030
+
+Puzzle #367
+3 0 5 
+6 2 1 
+7 4 8 
+Solution:          
+length of solution: 9
+states checked: 896
+time taken: 0.0094
+
+Puzzle #368
+3 0 2 
+4 1 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 23
+time taken: 0.0004
+
+Puzzle #369
+1 2 5 
+4 6 8 
+3 0 7 
+Solution:          
+length of solution: 9
+states checked: 1149
+time taken: 0.0118
+
+Puzzle #370
+3 0 4 
+6 2 1 
+8 5 7 
+Solution:                  
+length of solution: 17
+states checked: 75590
+time taken: 0.7573
+
+Puzzle #371
+6 3 2 
+7 1 4 
+8 0 5 
+Solution:            
+length of solution: 11
+states checked: 3041
+time taken: 0.0297
+
+Puzzle #372
+7 3 2 
+1 5 0 
+4 6 8 
+Solution:            
+length of solution: 11
+states checked: 3246
+time taken: 0.0315
+
+Puzzle #373
+3 1 2 
+4 5 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 74
+time taken: 0.0009
+
+Puzzle #374
+1 4 2 
+3 8 0 
+6 5 7 
+Solution:        
+length of solution: 7
+states checked: 290
+time taken: 0.0030
+
+Puzzle #375
+3 2 5 
+0 4 1 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 337
+time taken: 0.0035
+
+Puzzle #376
+1 4 2 
+3 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 29
+time taken: 0.0005
+
+Puzzle #377
+3 1 2 
+0 6 4 
+7 8 5 
+Solution:        
+length of solution: 7
+states checked: 316
+time taken: 0.0033
+
+Puzzle #378
+5 0 4 
+1 3 2 
+6 7 8 
+Solution:          
+length of solution: 9
+states checked: 1298
+time taken: 0.0127
+
+Puzzle #379
+4 7 2 
+0 1 5 
+3 6 8 
+Solution:          
+length of solution: 9
+states checked: 1139
+time taken: 0.0112
+
+Puzzle #380
+4 3 2 
+0 1 5 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 118
+time taken: 0.0014
+
+Puzzle #381
+1 4 2 
+0 3 8 
+6 5 7 
+Solution:        
+length of solution: 7
+states checked: 290
+time taken: 0.0030
+
+Puzzle #382
+1 4 2 
+0 3 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 26
+time taken: 0.0004
+
+Puzzle #383
+1 0 2 
+3 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #384
+3 0 2 
+4 1 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 23
+time taken: 0.0004
+
+Puzzle #385
+1 0 5 
+3 2 4 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 83
+time taken: 0.0010
+
+Puzzle #386
+3 1 2 
+4 8 0 
+6 5 7 
+Solution:        
+length of solution: 7
+states checked: 288
+time taken: 0.0030
+
+Puzzle #387
+3 5 1 
+0 4 2 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 355
+time taken: 0.0037
+
+Puzzle #388
+1 0 4 
+3 7 2 
+6 8 5 
+Solution:        
+length of solution: 7
+states checked: 345
+time taken: 0.0035
+
+Puzzle #389
+2 5 8 
+1 3 0 
+6 4 7 
+Solution:            
+length of solution: 11
+states checked: 3954
+time taken: 0.0384
+
+Puzzle #390
+4 3 2 
+0 7 5 
+1 6 8 
+Solution:          
+length of solution: 9
+states checked: 852
+time taken: 0.0085
+
+Puzzle #391
+1 0 2 
+3 7 5 
+4 6 8 
+Solution:        
+length of solution: 7
+states checked: 388
+time taken: 0.0039
+
+Puzzle #392
+3 1 2 
+4 8 7 
+6 0 5 
+Solution:        
+length of solution: 7
+states checked: 336
+time taken: 0.0035
+
+Puzzle #393
+4 0 1 
+3 6 2 
+7 8 5 
+Solution:            
+length of solution: 11
+states checked: 3952
+time taken: 0.0382
+
+Puzzle #394
+1 0 4 
+6 5 2 
+7 3 8 
+Solution:          
+length of solution: 9
+states checked: 1099
+time taken: 0.0108
+
+Puzzle #395
+4 0 3 
+6 1 2 
+7 8 5 
+Solution:            
+length of solution: 11
+states checked: 3223
+time taken: 0.0311
+
+Puzzle #396
+1 2 5 
+4 6 8 
+3 0 7 
+Solution:          
+length of solution: 9
+states checked: 1149
+time taken: 0.0112
+
+Puzzle #397
+3 0 5 
+2 7 4 
+6 8 1 
+Solution:                  
+length of solution: 17
+states checked: 88417
+time taken: 0.8572
+
+Puzzle #398
+3 1 7 
+2 8 4 
+6 0 5 
+Solution:                
+length of solution: 15
+states checked: 33224
+time taken: 0.3190
+
+Puzzle #399
+3 1 5 
+6 2 0 
+7 8 4 
+Solution:            
+length of solution: 11
+states checked: 2411
+time taken: 0.0237
+
+Puzzle #400
+3 1 2 
+4 8 7 
+6 0 5 
+Solution:        
+length of solution: 7
+states checked: 336
+time taken: 0.0035
+
+Puzzle #401
+3 1 2 
+6 4 8 
+5 0 7 
+Solution:          
+length of solution: 9
+states checked: 905
+time taken: 0.0089
+
+Puzzle #402
+3 2 5 
+0 1 8 
+4 6 7 
+Solution:          
+length of solution: 9
+states checked: 785
+time taken: 0.0079
+
+Puzzle #403
+1 3 2 
+6 5 0 
+7 8 4 
+Solution:              
+length of solution: 13
+states checked: 10024
+time taken: 0.0973
+
+Puzzle #404
+1 2 5 
+0 3 4 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 98
+time taken: 0.0012
+
+Puzzle #405
+3 1 2 
+6 5 0 
+7 4 8 
+Solution:      
+length of solution: 5
+states checked: 90
+time taken: 0.0011
+
+Puzzle #406
+1 2 5 
+4 8 0 
+3 6 7 
+Solution:          
+length of solution: 9
+states checked: 1002
+time taken: 0.0099
+
+Puzzle #407
+6 3 1 
+7 4 2 
+8 0 5 
+Solution:            
+length of solution: 11
+states checked: 3106
+time taken: 0.0304
+
+Puzzle #408
+1 4 2 
+3 5 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 76
+time taken: 0.0009
+
+Puzzle #409
+6 3 1 
+0 4 2 
+7 8 5 
+Solution:          
+length of solution: 9
+states checked: 1277
+time taken: 0.0126
+
+Puzzle #410
+2 3 5 
+0 4 8 
+1 6 7 
+Solution:              
+length of solution: 13
+states checked: 7225
+time taken: 0.0707
+
+Puzzle #411
+5 0 1 
+2 3 4 
+6 7 8 
+Solution:                
+length of solution: 15
+states checked: 28779
+time taken: 0.2784
+
+Puzzle #412
+1 0 4 
+3 5 2 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 106
+time taken: 0.0013
+
+Puzzle #413
+1 5 4 
+3 2 8 
+6 0 7 
+Solution:          
+length of solution: 9
+states checked: 827
+time taken: 0.0082
+
+Puzzle #414
+4 7 2 
+1 5 8 
+3 0 6 
+Solution:            
+length of solution: 11
+states checked: 2539
+time taken: 0.0251
+
+Puzzle #415
+1 5 4 
+0 6 2 
+7 3 8 
+Solution:            
+length of solution: 11
+states checked: 2952
+time taken: 0.0288
+
+Puzzle #416
+3 0 1 
+6 5 2 
+7 4 8 
+Solution:        
+length of solution: 7
+states checked: 356
+time taken: 0.0036
+
+Puzzle #417
+3 0 2 
+4 1 8 
+6 5 7 
+Solution:        
+length of solution: 7
+states checked: 243
+time taken: 0.0025
+
+Puzzle #418
+3 7 1 
+6 4 2 
+8 0 5 
+Solution:            
+length of solution: 11
+states checked: 2921
+time taken: 0.0285
+
+Puzzle #419
+1 4 2 
+7 5 0 
+3 6 8 
+Solution:        
+length of solution: 7
+states checked: 325
+time taken: 0.0034
+
+Puzzle #420
+3 1 2 
+4 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 27
+time taken: 0.0004
+
+Puzzle #421
+3 1 2 
+4 5 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 24
+time taken: 0.0004
+
+Puzzle #422
+1 6 2 
+3 4 5 
+7 0 8 
+Solution:          
+length of solution: 9
+states checked: 1297
+time taken: 0.0127
+
+Puzzle #423
+1 4 2 
+3 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 29
+time taken: 0.0005
+
+Puzzle #424
+1 7 4 
+3 2 0 
+6 8 5 
+Solution:          
+length of solution: 9
+states checked: 1094
+time taken: 0.0108
+
+Puzzle #425
+1 2 5 
+6 4 0 
+7 3 8 
+Solution:          
+length of solution: 9
+states checked: 959
+time taken: 0.0095
+
+Puzzle #426
+3 1 2 
+6 4 5 
+7 0 8 
+Solution:    
+length of solution: 3
+states checked: 20
+time taken: 0.0004
+
+Puzzle #427
+3 1 2 
+6 4 5 
+7 0 8 
+Solution:    
+length of solution: 3
+states checked: 20
+time taken: 0.0004
+
+Puzzle #428
+3 0 2 
+4 1 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 23
+time taken: 0.0004
+
+Puzzle #429
+4 0 3 
+5 2 1 
+6 7 8 
+Solution:            
+length of solution: 11
+states checked: 3510
+time taken: 0.0341
+
+Puzzle #430
+3 1 5 
+2 7 4 
+6 0 8 
+Solution:          
+length of solution: 9
+states checked: 1198
+time taken: 0.0117
+
+Puzzle #431
+1 4 2 
+0 6 5 
+7 3 8 
+Solution:        
+length of solution: 7
+states checked: 305
+time taken: 0.0032
+
+Puzzle #432
+3 2 5 
+4 1 8 
+6 0 7 
+Solution:        
+length of solution: 7
+states checked: 270
+time taken: 0.0028
+
+Puzzle #433
+4 3 2 
+1 7 5 
+6 0 8 
+Solution:        
+length of solution: 7
+states checked: 382
+time taken: 0.0039
+
+Puzzle #434
+1 2 5 
+6 8 0 
+4 3 7 
+Solution:            
+length of solution: 11
+states checked: 2888
+time taken: 0.0284
+
+Puzzle #435
+1 2 5 
+3 6 0 
+7 4 8 
+Solution:          
+length of solution: 9
+states checked: 1297
+time taken: 0.0128
+
+Puzzle #436
+1 4 2 
+3 7 0 
+6 8 5 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0010
+
+Puzzle #437
+1 4 2 
+3 5 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 26
+time taken: 0.0005
+
+Puzzle #438
+1 0 5 
+3 2 6 
+7 4 8 
+Solution:            
+length of solution: 11
+states checked: 2863
+time taken: 0.0280
+
+Puzzle #439
+1 4 2 
+3 5 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 76
+time taken: 0.0009
+
+Puzzle #440
+1 2 5 
+0 7 4 
+3 6 8 
+Solution:        
+length of solution: 7
+states checked: 257
+time taken: 0.0027
+
+Puzzle #441
+3 1 2 
+4 7 0 
+6 8 5 
+Solution:      
+length of solution: 5
+states checked: 77
+time taken: 0.0010
+
+Puzzle #442
+3 1 2 
+6 4 5 
+7 0 8 
+Solution:    
+length of solution: 3
+states checked: 20
+time taken: 0.0004
+
+Puzzle #443
+1 2 5 
+0 3 8 
+6 4 7 
+Solution:        
+length of solution: 7
+states checked: 293
+time taken: 0.0031
+
+Puzzle #444
+1 2 5 
+3 4 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 29
+time taken: 0.0005
+
+Puzzle #445
+3 5 1 
+6 4 2 
+7 0 8 
+Solution:          
+length of solution: 9
+states checked: 972
+time taken: 0.0095
+
+Puzzle #446
+1 2 5 
+0 3 7 
+6 8 4 
+Solution:          
+length of solution: 9
+states checked: 1013
+time taken: 0.0100
+
+Puzzle #447
+4 3 2 
+0 8 7 
+1 6 5 
+Solution:              
+length of solution: 13
+states checked: 7497
+time taken: 0.0733
+
+Puzzle #448
+3 1 2 
+0 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #449
+3 1 2 
+6 4 5 
+7 0 8 
+Solution:    
+length of solution: 3
+states checked: 20
+time taken: 0.0004
+
+Puzzle #450
+4 3 2 
+0 7 5 
+1 6 8 
+Solution:          
+length of solution: 9
+states checked: 852
+time taken: 0.0085
+
+Puzzle #451
+3 0 1 
+4 5 2 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 104
+time taken: 0.0012
+
+Puzzle #452
+3 1 2 
+4 5 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 74
+time taken: 0.0009
+
+Puzzle #453
+6 0 5 
+7 3 1 
+4 2 8 
+Solution:                
+length of solution: 15
+states checked: 23305
+time taken: 0.2266
+
+Puzzle #454
+3 0 1 
+4 8 2 
+6 5 7 
+Solution:          
+length of solution: 9
+states checked: 1082
+time taken: 0.0107
+
+Puzzle #455
+3 1 2 
+4 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 27
+time taken: 0.0005
+
+Puzzle #456
+4 3 2 
+1 7 0 
+6 8 5 
+Solution:          
+length of solution: 9
+states checked: 852
+time taken: 0.0085
+
+Puzzle #457
+5 2 4 
+1 6 8 
+3 0 7 
+Solution:                
+length of solution: 15
+states checked: 35459
+time taken: 0.3576
+
+Puzzle #458
+3 1 2 
+7 6 5 
+4 0 8 
+Solution:        
+length of solution: 7
+states checked: 287
+time taken: 0.0032
+
+Puzzle #459
+1 2 5 
+3 4 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0010
+
+Puzzle #460
+3 1 2 
+6 4 5 
+7 0 8 
+Solution:    
+length of solution: 3
+states checked: 20
+time taken: 0.0004
+
+Puzzle #461
+1 4 2 
+3 7 0 
+6 8 5 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0010
+
+Puzzle #462
+3 1 2 
+0 6 5 
+7 4 8 
+Solution:      
+length of solution: 5
+states checked: 90
+time taken: 0.0011
+
+Puzzle #463
+1 4 2 
+6 8 3 
+7 0 5 
+Solution:          
+length of solution: 9
+states checked: 1054
+time taken: 0.0109
+
+Puzzle #464
+3 1 2 
+4 8 0 
+6 5 7 
+Solution:        
+length of solution: 7
+states checked: 288
+time taken: 0.0032
+
+Puzzle #465
+7 4 2 
+1 3 0 
+6 8 5 
+Solution:              
+length of solution: 13
+states checked: 12105
+time taken: 0.1237
+
+Puzzle #466
+3 1 2 
+6 4 5 
+7 0 8 
+Solution:    
+length of solution: 3
+states checked: 20
+time taken: 0.0004
+
+Puzzle #467
+3 1 2 
+0 6 4 
+7 8 5 
+Solution:        
+length of solution: 7
+states checked: 316
+time taken: 0.0035
+
+Puzzle #468
+3 1 2 
+0 4 8 
+6 5 7 
+Solution:        
+length of solution: 7
+states checked: 288
+time taken: 0.0032
+
+Puzzle #469
+3 2 5 
+6 4 1 
+7 0 8 
+Solution:          
+length of solution: 9
+states checked: 954
+time taken: 0.0098
+
+Puzzle #470
+3 0 5 
+7 2 1 
+4 6 8 
+Solution:            
+length of solution: 11
+states checked: 2817
+time taken: 0.0287
+
+Puzzle #471
+4 3 2 
+0 1 7 
+6 8 5 
+Solution:          
+length of solution: 9
+states checked: 1219
+time taken: 0.0126
+
+Puzzle #472
+3 1 2 
+6 4 8 
+5 0 7 
+Solution:          
+length of solution: 9
+states checked: 905
+time taken: 0.0094
+
+Puzzle #473
+1 5 2 
+4 3 8 
+6 0 7 
+Solution:              
+length of solution: 13
+states checked: 9034
+time taken: 0.0916
+
+Puzzle #474
+4 0 1 
+3 8 2 
+6 7 5 
+Solution:              
+length of solution: 13
+states checked: 11205
+time taken: 0.1133
+
+Puzzle #475
+1 5 4 
+0 7 2 
+3 6 8 
+Solution:          
+length of solution: 9
+states checked: 872
+time taken: 0.0091
+
+Puzzle #476
+4 3 2 
+0 1 5 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 118
+time taken: 0.0015
+
+Puzzle #477
+3 2 5 
+6 4 1 
+7 0 8 
+Solution:          
+length of solution: 9
+states checked: 954
+time taken: 0.0099
+
+Puzzle #478
+1 0 4 
+3 5 2 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 106
+time taken: 0.0013
+
+Puzzle #479
+3 1 2 
+6 4 8 
+5 0 7 
+Solution:          
+length of solution: 9
+states checked: 905
+time taken: 0.0094
+
+Puzzle #480
+7 1 2 
+0 4 5 
+3 6 8 
+Solution:          
+length of solution: 9
+states checked: 1253
+time taken: 0.0130
+
+Puzzle #481
+3 1 5 
+2 4 0 
+6 7 8 
+Solution:          
+length of solution: 9
+states checked: 1051
+time taken: 0.0109
+
+Puzzle #482
+3 1 2 
+0 7 5 
+4 6 8 
+Solution:      
+length of solution: 5
+states checked: 77
+time taken: 0.0010
+
+Puzzle #483
+1 2 5 
+7 6 0 
+3 8 4 
+Solution:            
+length of solution: 11
+states checked: 2560
+time taken: 0.0263
+
+Puzzle #484
+1 4 2 
+0 3 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 26
+time taken: 0.0005
+
+Puzzle #485
+3 1 5 
+4 6 8 
+2 0 7 
+Solution:                
+length of solution: 15
+states checked: 25575
+time taken: 0.2602
+
+Puzzle #486
+3 1 5 
+6 2 4 
+7 0 8 
+Solution:          
+length of solution: 9
+states checked: 1011
+time taken: 0.0105
+
+Puzzle #487
+7 5 3 
+1 2 0 
+4 6 8 
+Solution:                
+length of solution: 15
+states checked: 31099
+time taken: 0.3068
+
+Puzzle #488
+1 2 5 
+3 4 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 29
+time taken: 0.0005
+
+Puzzle #489
+2 5 4 
+0 3 8 
+7 1 6 
+Solution:                    
+length of solution: 19
+states checked: 192226
+time taken: 1.8770
+
+Puzzle #490
+3 5 1 
+6 4 2 
+7 0 8 
+Solution:          
+length of solution: 9
+states checked: 972
+time taken: 0.0096
+
+Puzzle #491
+1 4 2 
+3 7 0 
+6 8 5 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0010
+
+Puzzle #492
+7 0 2 
+1 3 5 
+4 6 8 
+Solution:            
+length of solution: 11
+states checked: 3113
+time taken: 0.0304
+
+Puzzle #493
+1 4 2 
+3 7 0 
+6 8 5 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0010
+
+Puzzle #494
+4 0 5 
+1 2 3 
+6 7 8 
+Solution:          
+length of solution: 9
+states checked: 927
+time taken: 0.0093
+
+Puzzle #495
+3 0 1 
+2 4 5 
+6 7 8 
+Solution:            
+length of solution: 11
+states checked: 3489
+time taken: 0.0338
+
+Puzzle #496
+4 0 3 
+1 5 2 
+6 7 8 
+Solution:          
+length of solution: 9
+states checked: 1131
+time taken: 0.0112
+
+Puzzle #497
+1 2 5 
+3 4 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 29
+time taken: 0.0005
+
+Puzzle #498
+3 1 5 
+0 2 4 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 394
+time taken: 0.0040
+
+Puzzle #499
+4 3 1 
+0 7 2 
+6 8 5 
+Solution:          
+length of solution: 9
+states checked: 1284
+time taken: 0.0126
+
+Puzzle #500
+4 7 2 
+3 1 5 
+6 0 8 
+Solution:            
+length of solution: 11
+states checked: 2968
+time taken: 0.0289
+
+Puzzle #501
+4 2 5 
+1 7 0 
+3 6 8 
+Solution:          
+length of solution: 9
+states checked: 1286
+time taken: 0.0127
+
+Puzzle #502
+3 0 2 
+4 1 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 23
+time taken: 0.0004
+
+Puzzle #503
+1 2 5 
+3 7 4 
+6 0 8 
+Solution:      
+length of solution: 5
+states checked: 105
+time taken: 0.0012
+
+Puzzle #504
+1 0 4 
+3 7 2 
+6 8 5 
+Solution:        
+length of solution: 7
+states checked: 345
+time taken: 0.0035
+
+Puzzle #505
+1 2 4 
+3 6 0 
+7 8 5 
+Solution:            
+length of solution: 11
+states checked: 3977
+time taken: 0.0382
+
+Puzzle #506
+3 1 2 
+4 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 27
+time taken: 0.0004
+
+Puzzle #507
+3 1 2 
+7 6 0 
+4 8 5 
+Solution:          
+length of solution: 9
+states checked: 757
+time taken: 0.0075
+
+Puzzle #508
+1 2 5 
+3 7 4 
+6 0 8 
+Solution:      
+length of solution: 5
+states checked: 105
+time taken: 0.0012
+
+Puzzle #509
+3 2 4 
+6 1 0 
+7 8 5 
+Solution:          
+length of solution: 9
+states checked: 1212
+time taken: 0.0119
+
+Puzzle #510
+1 5 4 
+3 2 0 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 357
+time taken: 0.0037
+
+Puzzle #511
+3 1 2 
+6 8 0 
+7 5 4 
+Solution:          
+length of solution: 9
+states checked: 799
+time taken: 0.0079
+
+Puzzle #512
+3 0 2 
+4 8 5 
+6 1 7 
+Solution:            
+length of solution: 11
+states checked: 3372
+time taken: 0.0324
+
+Puzzle #513
+1 0 4 
+3 5 8 
+6 2 7 
+Solution:            
+length of solution: 11
+states checked: 2376
+time taken: 0.0232
+
+Puzzle #514
+1 2 5 
+6 3 0 
+7 8 4 
+Solution:          
+length of solution: 9
+states checked: 765
+time taken: 0.0076
+
+Puzzle #515
+3 0 2 
+4 1 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 23
+time taken: 0.0004
+
+Puzzle #516
+3 1 2 
+6 4 5 
+7 0 8 
+Solution:    
+length of solution: 3
+states checked: 20
+time taken: 0.0004
+
+Puzzle #517
+3 1 2 
+4 5 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 24
+time taken: 0.0004
+
+Puzzle #518
+1 4 2 
+6 8 7 
+5 0 3 
+Solution:              
+length of solution: 13
+states checked: 7123
+time taken: 0.0694
+
+Puzzle #519
+3 0 1 
+6 5 2 
+7 4 8 
+Solution:        
+length of solution: 7
+states checked: 356
+time taken: 0.0036
+
+Puzzle #520
+5 3 4 
+6 1 2 
+7 0 8 
+Solution:              
+length of solution: 13
+states checked: 9150
+time taken: 0.0890
+
+Puzzle #521
+4 1 2 
+0 3 6 
+7 8 5 
+Solution:                
+length of solution: 15
+states checked: 30051
+time taken: 0.2934
+
+Puzzle #522
+4 3 2 
+1 5 8 
+6 0 7 
+Solution:          
+length of solution: 9
+states checked: 807
+time taken: 0.0081
+
+Puzzle #523
+1 4 2 
+6 3 8 
+5 0 7 
+Solution:          
+length of solution: 9
+states checked: 907
+time taken: 0.0089
+
+Puzzle #524
+1 0 4 
+3 5 2 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 106
+time taken: 0.0012
+
+Puzzle #525
+1 5 4 
+7 2 0 
+3 6 8 
+Solution:            
+length of solution: 11
+states checked: 3146
+time taken: 0.0305
+
+Puzzle #526
+1 0 2 
+3 4 8 
+6 5 7 
+Solution:        
+length of solution: 7
+states checked: 245
+time taken: 0.0026
+
+Puzzle #527
+3 1 2 
+7 5 0 
+4 6 8 
+Solution:        
+length of solution: 7
+states checked: 323
+time taken: 0.0034
+
+Puzzle #528
+1 0 2 
+3 5 6 
+4 7 8 
+Solution:                
+length of solution: 15
+states checked: 24769
+time taken: 0.2385
+
+Puzzle #529
+3 0 1 
+4 5 2 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 104
+time taken: 0.0012
+
+Puzzle #530
+2 0 8 
+1 5 4 
+3 6 7 
+Solution:              
+length of solution: 13
+states checked: 8545
+time taken: 0.0826
+
+Puzzle #531
+3 1 4 
+0 5 2 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 417
+time taken: 0.0042
+
+Puzzle #532
+4 0 2 
+1 3 5 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 121
+time taken: 0.0014
+
+Puzzle #533
+3 1 2 
+4 5 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 24
+time taken: 0.0005
+
+Puzzle #534
+3 4 1 
+6 2 0 
+7 8 5 
+Solution:          
+length of solution: 9
+states checked: 1085
+time taken: 0.0107
+
+Puzzle #535
+3 1 2 
+0 8 4 
+6 7 5 
+Solution:          
+length of solution: 9
+states checked: 799
+time taken: 0.0080
+
+Puzzle #536
+4 5 2 
+0 1 8 
+3 6 7 
+Solution:            
+length of solution: 11
+states checked: 3475
+time taken: 0.0336
+
+Puzzle #537
+1 0 4 
+7 2 3 
+6 8 5 
+Solution:                  
+length of solution: 17
+states checked: 95292
+time taken: 0.9251
+
+Puzzle #538
+1 2 4 
+0 5 7 
+3 6 8 
+Solution:                
+length of solution: 15
+states checked: 34391
+time taken: 0.3495
+
+Puzzle #539
+3 0 2 
+4 1 7 
+6 8 5 
+Solution:        
+length of solution: 7
+states checked: 278
+time taken: 0.0031
+
+Puzzle #540
+1 2 5 
+3 7 4 
+6 0 8 
+Solution:      
+length of solution: 5
+states checked: 105
+time taken: 0.0013
+
+Puzzle #541
+1 2 4 
+0 3 6 
+7 8 5 
+Solution:              
+length of solution: 13
+states checked: 9938
+time taken: 0.1013
+
+Puzzle #542
+4 2 5 
+0 3 7 
+6 1 8 
+Solution:                
+length of solution: 15
+states checked: 26732
+time taken: 0.2716
+
+Puzzle #543
+1 4 2 
+0 3 7 
+6 8 5 
+Solution:        
+length of solution: 7
+states checked: 325
+time taken: 0.0035
+
+Puzzle #544
+4 3 2 
+1 7 0 
+6 8 5 
+Solution:          
+length of solution: 9
+states checked: 852
+time taken: 0.0089
+
+Puzzle #545
+3 1 5 
+0 2 4 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 394
+time taken: 0.0042
+
+Puzzle #546
+4 3 2 
+6 1 8 
+5 0 7 
+Solution:            
+length of solution: 11
+states checked: 3013
+time taken: 0.0308
+
+Puzzle #547
+1 5 4 
+3 7 2 
+6 0 8 
+Solution:        
+length of solution: 7
+states checked: 402
+time taken: 0.0043
+
+Puzzle #548
+3 2 5 
+4 1 0 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 118
+time taken: 0.0014
+
+Puzzle #549
+1 2 5 
+0 4 8 
+3 6 7 
+Solution:        
+length of solution: 7
+states checked: 246
+time taken: 0.0028
+
+Puzzle #550
+1 0 4 
+3 5 2 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 106
+time taken: 0.0013
+
+Puzzle #551
+3 0 1 
+6 4 2 
+7 8 5 
+Solution:        
+length of solution: 7
+states checked: 336
+time taken: 0.0036
+
+Puzzle #552
+1 0 2 
+3 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #553
+4 0 2 
+1 3 5 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 121
+time taken: 0.0015
+
+Puzzle #554
+3 1 2 
+0 8 5 
+6 4 7 
+Solution:            
+length of solution: 11
+states checked: 3954
+time taken: 0.0404
+
+Puzzle #555
+1 4 2 
+0 7 5 
+3 6 8 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0010
+
+Puzzle #556
+3 5 1 
+0 6 4 
+7 8 2 
+Solution:              
+length of solution: 13
+states checked: 9224
+time taken: 0.0940
+
+Puzzle #557
+1 4 2 
+3 7 0 
+6 8 5 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0010
+
+Puzzle #558
+4 0 2 
+6 7 5 
+1 3 8 
+Solution:              
+length of solution: 13
+states checked: 9075
+time taken: 0.0928
+
+Puzzle #559
+1 2 5 
+0 7 8 
+3 4 6 
+Solution:              
+length of solution: 13
+states checked: 7351
+time taken: 0.0720
+
+Puzzle #560
+3 4 1 
+6 8 2 
+7 0 5 
+Solution:          
+length of solution: 9
+states checked: 1232
+time taken: 0.0121
+
+Puzzle #561
+3 0 2 
+4 1 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 23
+time taken: 0.0004
+
+Puzzle #562
+1 0 2 
+3 4 8 
+6 5 7 
+Solution:        
+length of solution: 7
+states checked: 245
+time taken: 0.0026
+
+Puzzle #563
+4 7 3 
+1 2 0 
+6 8 5 
+Solution:              
+length of solution: 13
+states checked: 10111
+time taken: 0.0989
+
+Puzzle #564
+1 5 8 
+3 7 0 
+6 2 4 
+Solution:              
+length of solution: 13
+states checked: 8581
+time taken: 0.0838
+
+Puzzle #565
+3 5 1 
+6 4 2 
+7 0 8 
+Solution:          
+length of solution: 9
+states checked: 972
+time taken: 0.0097
+
+Puzzle #566
+3 2 8 
+6 1 0 
+7 5 4 
+Solution:            
+length of solution: 11
+states checked: 3626
+time taken: 0.0353
+
+Puzzle #567
+4 7 2 
+0 6 5 
+1 3 8 
+Solution:            
+length of solution: 11
+states checked: 2686
+time taken: 0.0266
+
+Puzzle #568
+1 0 5 
+6 4 3 
+7 2 8 
+Solution:                
+length of solution: 15
+states checked: 23336
+time taken: 0.2291
+
+Puzzle #569
+3 1 2 
+7 6 5 
+4 0 8 
+Solution:        
+length of solution: 7
+states checked: 287
+time taken: 0.0030
+
+Puzzle #570
+3 0 2 
+7 1 5 
+4 6 8 
+Solution:        
+length of solution: 7
+states checked: 310
+time taken: 0.0032
+
+Puzzle #571
+1 4 2 
+3 8 7 
+6 0 5 
+Solution:        
+length of solution: 7
+states checked: 338
+time taken: 0.0035
+
+Puzzle #572
+1 4 2 
+0 3 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 26
+time taken: 0.0004
+
+Puzzle #573
+1 2 5 
+6 3 4 
+7 0 8 
+Solution:        
+length of solution: 7
+states checked: 295
+time taken: 0.0031
+
+Puzzle #574
+5 7 1 
+4 3 2 
+6 0 8 
+Solution:                
+length of solution: 15
+states checked: 27123
+time taken: 0.2628
+
+Puzzle #575
+3 1 2 
+5 8 0 
+4 6 7 
+Solution:          
+length of solution: 9
+states checked: 997
+time taken: 0.0098
+
+Puzzle #576
+3 2 5 
+4 8 0 
+6 1 7 
+Solution:          
+length of solution: 9
+states checked: 934
+time taken: 0.0092
+
+Puzzle #577
+3 5 1 
+4 7 2 
+6 0 8 
+Solution:        
+length of solution: 7
+states checked: 400
+time taken: 0.0041
+
+Puzzle #578
+1 0 4 
+3 7 2 
+6 8 5 
+Solution:        
+length of solution: 7
+states checked: 345
+time taken: 0.0035
+
+Puzzle #579
+2 0 5 
+1 4 8 
+3 6 7 
+Solution:          
+length of solution: 9
+states checked: 1187
+time taken: 0.0117
+
+Puzzle #580
+7 3 2 
+1 6 5 
+4 0 8 
+Solution:            
+length of solution: 11
+states checked: 3675
+time taken: 0.0356
+
+Puzzle #581
+1 6 2 
+3 8 0 
+7 5 4 
+Solution:              
+length of solution: 13
+states checked: 8215
+time taken: 0.0800
+
+Puzzle #582
+4 2 8 
+1 3 7 
+6 0 5 
+Solution:              
+length of solution: 13
+states checked: 8189
+time taken: 0.0803
+
+Puzzle #583
+1 2 7 
+3 8 4 
+6 0 5 
+Solution:            
+length of solution: 11
+states checked: 3349
+time taken: 0.0328
+
+Puzzle #584
+1 3 2 
+6 7 5 
+4 0 8 
+Solution:                
+length of solution: 15
+states checked: 34072
+time taken: 0.3304
+
+Puzzle #585
+2 5 4 
+0 1 3 
+6 7 8 
+Solution:            
+length of solution: 11
+states checked: 3300
+time taken: 0.0321
+
+Puzzle #586
+1 4 2 
+7 3 0 
+8 6 5 
+Solution:              
+length of solution: 13
+states checked: 8820
+time taken: 0.0850
+
+Puzzle #587
+3 5 1 
+0 4 2 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 355
+time taken: 0.0037
+
+Puzzle #588
+1 4 2 
+3 5 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 76
+time taken: 0.0009
+
+Puzzle #589
+3 2 5 
+6 1 0 
+7 4 8 
+Solution:        
+length of solution: 7
+states checked: 386
+time taken: 0.0039
+
+Puzzle #590
+7 3 2 
+1 8 5 
+6 0 4 
+Solution:                
+length of solution: 15
+states checked: 36427
+time taken: 0.3516
+
+Puzzle #591
+1 2 5 
+0 7 4 
+3 6 8 
+Solution:        
+length of solution: 7
+states checked: 257
+time taken: 0.0029
+
+Puzzle #592
+3 1 2 
+0 7 5 
+4 6 8 
+Solution:      
+length of solution: 5
+states checked: 77
+time taken: 0.0010
+
+Puzzle #593
+3 0 2 
+4 1 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 23
+time taken: 0.0004
+
+Puzzle #594
+3 1 2 
+6 5 8 
+7 0 4 
+Solution:        
+length of solution: 7
+states checked: 242
+time taken: 0.0026
+
+Puzzle #595
+1 5 4 
+3 2 0 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 357
+time taken: 0.0037
+
+Puzzle #596
+4 2 5 
+0 6 7 
+1 3 8 
+Solution:              
+length of solution: 13
+states checked: 7652
+time taken: 0.0748
+
+Puzzle #597
+7 1 2 
+0 4 5 
+3 6 8 
+Solution:          
+length of solution: 9
+states checked: 1253
+time taken: 0.0123
+
+Puzzle #598
+3 7 2 
+6 4 5 
+8 0 1 
+Solution:                
+length of solution: 15
+states checked: 26644
+time taken: 0.2587
+
+Puzzle #599
+1 2 5 
+0 3 8 
+6 4 7 
+Solution:        
+length of solution: 7
+states checked: 293
+time taken: 0.0031
+
+Puzzle #600
+3 2 5 
+0 4 8 
+6 1 7 
+Solution:          
+length of solution: 9
+states checked: 934
+time taken: 0.0092
+
+Puzzle #601
+1 2 5 
+3 7 4 
+6 0 8 
+Solution:      
+length of solution: 5
+states checked: 105
+time taken: 0.0012
+
+Puzzle #602
+1 5 4 
+6 3 2 
+7 0 8 
+Solution:          
+length of solution: 9
+states checked: 974
+time taken: 0.0096
+
+Puzzle #603
+3 1 2 
+4 7 0 
+6 8 5 
+Solution:      
+length of solution: 5
+states checked: 77
+time taken: 0.0009
+
+Puzzle #604
+1 2 5 
+6 3 8 
+4 0 7 
+Solution:          
+length of solution: 9
+states checked: 910
+time taken: 0.0089
+
+Puzzle #605
+1 2 5 
+0 6 4 
+7 3 8 
+Solution:          
+length of solution: 9
+states checked: 959
+time taken: 0.0094
+
+Puzzle #606
+1 5 4 
+0 3 2 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 357
+time taken: 0.0037
+
+Puzzle #607
+1 2 5 
+0 4 8 
+3 6 7 
+Solution:        
+length of solution: 7
+states checked: 246
+time taken: 0.0026
+
+Puzzle #608
+3 1 2 
+6 8 0 
+7 5 4 
+Solution:          
+length of solution: 9
+states checked: 799
+time taken: 0.0080
+
+Puzzle #609
+3 1 4 
+0 5 2 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 417
+time taken: 0.0042
+
+Puzzle #610
+1 0 4 
+3 7 2 
+6 8 5 
+Solution:        
+length of solution: 7
+states checked: 345
+time taken: 0.0035
+
+Puzzle #611
+4 3 2 
+0 6 8 
+5 1 7 
+Solution:              
+length of solution: 13
+states checked: 9005
+time taken: 0.0876
+
+Puzzle #612
+3 1 2 
+0 6 5 
+7 4 8 
+Solution:      
+length of solution: 5
+states checked: 90
+time taken: 0.0011
+
+Puzzle #613
+1 4 2 
+3 7 0 
+6 8 5 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0010
+
+Puzzle #614
+1 2 8 
+3 4 0 
+6 5 7 
+Solution:          
+length of solution: 9
+states checked: 1186
+time taken: 0.0117
+
+Puzzle #615
+4 0 1 
+3 8 2 
+6 7 5 
+Solution:              
+length of solution: 13
+states checked: 11205
+time taken: 0.1083
+
+Puzzle #616
+4 3 2 
+7 6 5 
+1 0 8 
+Solution:            
+length of solution: 11
+states checked: 2808
+time taken: 0.0279
+
+Puzzle #617
+1 4 2 
+3 7 0 
+6 8 5 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0010
+
+Puzzle #618
+3 0 5 
+2 1 7 
+6 8 4 
+Solution:              
+length of solution: 13
+states checked: 8127
+time taken: 0.0795
+
+Puzzle #619
+2 0 5 
+3 4 8 
+6 1 7 
+Solution:            
+length of solution: 11
+states checked: 3801
+time taken: 0.0372
+
+Puzzle #620
+1 4 2 
+0 3 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 26
+time taken: 0.0004
+
+Puzzle #621
+1 4 2 
+0 5 8 
+3 6 7 
+Solution:        
+length of solution: 7
+states checked: 243
+time taken: 0.0026
+
+Puzzle #622
+3 1 2 
+6 4 5 
+7 0 8 
+Solution:    
+length of solution: 3
+states checked: 20
+time taken: 0.0004
+
+Puzzle #623
+1 2 5 
+3 7 4 
+6 0 8 
+Solution:      
+length of solution: 5
+states checked: 105
+time taken: 0.0012
+
+Puzzle #624
+6 0 4 
+3 1 2 
+7 8 5 
+Solution:              
+length of solution: 13
+states checked: 9402
+time taken: 0.0916
+
+Puzzle #625
+3 1 5 
+0 2 4 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 394
+time taken: 0.0040
+
+Puzzle #626
+3 2 5 
+4 1 0 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 118
+time taken: 0.0014
+
+Puzzle #627
+3 1 2 
+0 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #628
+2 0 5 
+1 4 8 
+3 6 7 
+Solution:          
+length of solution: 9
+states checked: 1187
+time taken: 0.0117
+
+Puzzle #629
+1 0 5 
+3 2 4 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 83
+time taken: 0.0010
+
+Puzzle #630
+2 0 5 
+3 6 1 
+7 4 8 
+Solution:            
+length of solution: 11
+states checked: 3910
+time taken: 0.0379
+
+Puzzle #631
+3 1 2 
+0 8 4 
+6 7 5 
+Solution:          
+length of solution: 9
+states checked: 799
+time taken: 0.0080
+
+Puzzle #632
+1 0 2 
+3 7 5 
+4 6 8 
+Solution:        
+length of solution: 7
+states checked: 388
+time taken: 0.0039
+
+Puzzle #633
+3 5 1 
+4 8 7 
+6 0 2 
+Solution:            
+length of solution: 11
+states checked: 3277
+time taken: 0.0329
+
+Puzzle #634
+2 0 3 
+6 1 5 
+4 7 8 
+Solution:                  
+length of solution: 17
+states checked: 87216
+time taken: 0.8312
+
+Puzzle #635
+3 2 5 
+6 1 0 
+7 4 8 
+Solution:        
+length of solution: 7
+states checked: 386
+time taken: 0.0038
+
+Puzzle #636
+2 3 5 
+0 1 8 
+6 4 7 
+Solution:            
+length of solution: 11
+states checked: 3525
+time taken: 0.0330
+
+Puzzle #637
+3 1 5 
+2 7 4 
+6 0 8 
+Solution:          
+length of solution: 9
+states checked: 1198
+time taken: 0.0112
+
+Puzzle #638
+3 2 5 
+6 1 0 
+7 4 8 
+Solution:        
+length of solution: 7
+states checked: 386
+time taken: 0.0037
+
+Puzzle #639
+1 2 8 
+0 3 4 
+6 5 7 
+Solution:            
+length of solution: 11
+states checked: 3181
+time taken: 0.0295
+
+Puzzle #640
+1 2 5 
+6 3 0 
+7 8 4 
+Solution:          
+length of solution: 9
+states checked: 765
+time taken: 0.0073
+
+Puzzle #641
+2 5 4 
+3 8 7 
+1 0 6 
+Solution:                  
+length of solution: 17
+states checked: 66012
+time taken: 0.6521
+
+Puzzle #642
+1 0 2 
+3 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #643
+1 0 2 
+3 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #644
+1 0 2 
+3 4 8 
+6 5 7 
+Solution:        
+length of solution: 7
+states checked: 245
+time taken: 0.0027
+
+Puzzle #645
+3 5 1 
+0 6 2 
+7 4 8 
+Solution:          
+length of solution: 9
+states checked: 1105
+time taken: 0.0114
+
+Puzzle #646
+4 3 2 
+0 1 8 
+6 5 7 
+Solution:          
+length of solution: 9
+states checked: 1184
+time taken: 0.0121
+
+Puzzle #647
+5 0 4 
+1 3 7 
+6 8 2 
+Solution:              
+length of solution: 13
+states checked: 11719
+time taken: 0.1184
+
+Puzzle #648
+1 4 2 
+5 3 8 
+7 0 6 
+Solution:              
+length of solution: 13
+states checked: 10517
+time taken: 0.1067
+
+Puzzle #649
+3 0 2 
+4 1 7 
+6 8 5 
+Solution:        
+length of solution: 7
+states checked: 278
+time taken: 0.0033
+
+Puzzle #650
+3 1 2 
+4 7 0 
+6 8 5 
+Solution:      
+length of solution: 5
+states checked: 77
+time taken: 0.0010
+
+Puzzle #651
+1 5 4 
+0 2 8 
+3 6 7 
+Solution:            
+length of solution: 11
+states checked: 2374
+time taken: 0.0243
+
+Puzzle #652
+1 2 5 
+3 7 4 
+6 0 8 
+Solution:      
+length of solution: 5
+states checked: 105
+time taken: 0.0013
+
+Puzzle #653
+1 6 2 
+0 3 4 
+7 8 5 
+Solution:            
+length of solution: 11
+states checked: 3548
+time taken: 0.0360
+
+Puzzle #654
+3 4 1 
+6 8 2 
+7 0 5 
+Solution:          
+length of solution: 9
+states checked: 1232
+time taken: 0.0127
+
+Puzzle #655
+1 4 2 
+6 5 0 
+7 3 8 
+Solution:        
+length of solution: 7
+states checked: 305
+time taken: 0.0033
+
+Puzzle #656
+2 3 5 
+1 7 4 
+6 0 8 
+Solution:          
+length of solution: 9
+states checked: 1305
+time taken: 0.0134
+
+Puzzle #657
+3 1 2 
+4 8 0 
+6 5 7 
+Solution:        
+length of solution: 7
+states checked: 288
+time taken: 0.0032
+
+Puzzle #658
+1 2 5 
+0 3 8 
+6 4 7 
+Solution:        
+length of solution: 7
+states checked: 293
+time taken: 0.0032
+
+Puzzle #659
+6 3 1 
+4 2 0 
+7 8 5 
+Solution:            
+length of solution: 11
+states checked: 3272
+time taken: 0.0333
+
+Puzzle #660
+1 4 2 
+3 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 29
+time taken: 0.0005
+
+Puzzle #661
+5 0 7 
+1 2 4 
+3 6 8 
+Solution:                
+length of solution: 15
+states checked: 32486
+time taken: 0.3152
+
+Puzzle #662
+3 1 2 
+6 4 5 
+7 0 8 
+Solution:    
+length of solution: 3
+states checked: 20
+time taken: 0.0004
+
+Puzzle #663
+1 4 2 
+0 3 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 26
+time taken: 0.0004
+
+Puzzle #664
+3 1 2 
+4 5 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 24
+time taken: 0.0004
+
+Puzzle #665
+1 4 2 
+3 5 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 76
+time taken: 0.0009
+
+Puzzle #666
+4 7 3 
+1 8 2 
+6 0 5 
+Solution:              
+length of solution: 13
+states checked: 11434
+time taken: 0.1098
+
+Puzzle #667
+1 4 2 
+3 5 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 76
+time taken: 0.0009
+
+Puzzle #668
+3 1 2 
+0 4 7 
+6 8 5 
+Solution:        
+length of solution: 7
+states checked: 323
+time taken: 0.0034
+
+Puzzle #669
+3 0 2 
+4 1 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 23
+time taken: 0.0004
+
+Puzzle #670
+1 0 2 
+5 4 8 
+3 6 7 
+Solution:          
+length of solution: 9
+states checked: 944
+time taken: 0.0093
+
+Puzzle #671
+3 0 2 
+7 1 6 
+4 8 5 
+Solution:            
+length of solution: 11
+states checked: 2602
+time taken: 0.0254
+
+Puzzle #672
+3 0 1 
+7 4 2 
+8 6 5 
+Solution:              
+length of solution: 13
+states checked: 7583
+time taken: 0.0740
+
+Puzzle #673
+3 1 2 
+0 8 7 
+4 6 5 
+Solution:          
+length of solution: 9
+states checked: 806
+time taken: 0.0080
+
+Puzzle #674
+3 0 5 
+6 2 1 
+7 4 8 
+Solution:          
+length of solution: 9
+states checked: 896
+time taken: 0.0089
+
+Puzzle #675
+1 2 5 
+3 8 7 
+6 0 4 
+Solution:          
+length of solution: 9
+states checked: 763
+time taken: 0.0076
+
+Puzzle #676
+1 0 2 
+3 4 8 
+6 5 7 
+Solution:        
+length of solution: 7
+states checked: 245
+time taken: 0.0026
+
+Puzzle #677
+1 0 5 
+6 2 4 
+7 3 8 
+Solution:          
+length of solution: 9
+states checked: 812
+time taken: 0.0081
+
+Puzzle #678
+1 5 4 
+0 2 8 
+7 3 6 
+Solution:                
+length of solution: 15
+states checked: 21363
+time taken: 0.2073
+
+Puzzle #679
+1 2 5 
+0 7 4 
+3 6 8 
+Solution:        
+length of solution: 7
+states checked: 257
+time taken: 0.0027
+
+Puzzle #680
+3 2 5 
+4 1 8 
+6 0 7 
+Solution:        
+length of solution: 7
+states checked: 270
+time taken: 0.0028
+
+Puzzle #681
+3 1 2 
+6 4 5 
+7 0 8 
+Solution:    
+length of solution: 3
+states checked: 20
+time taken: 0.0004
+
+Puzzle #682
+3 5 1 
+4 2 8 
+6 0 7 
+Solution:          
+length of solution: 9
+states checked: 825
+time taken: 0.0082
+
+Puzzle #683
+3 1 4 
+6 2 0 
+8 7 5 
+Solution:              
+length of solution: 13
+states checked: 9107
+time taken: 0.0888
+
+Puzzle #684
+8 4 2 
+3 1 5 
+6 0 7 
+Solution:                  
+length of solution: 17
+states checked: 109452
+time taken: 1.0616
+
+Puzzle #685
+1 2 5 
+3 4 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 29
+time taken: 0.0005
+
+Puzzle #686
+1 7 2 
+0 6 4 
+5 3 8 
+Solution:                    
+length of solution: 19
+states checked: 209166
+time taken: 2.0463
+
+Puzzle #687
+3 1 2 
+0 7 5 
+4 6 8 
+Solution:      
+length of solution: 5
+states checked: 77
+time taken: 0.0010
+
+Puzzle #688
+4 0 5 
+1 2 3 
+6 7 8 
+Solution:          
+length of solution: 9
+states checked: 927
+time taken: 0.0092
+
+Puzzle #689
+1 0 2 
+3 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #690
+4 2 5 
+0 1 8 
+6 3 7 
+Solution:            
+length of solution: 11
+states checked: 2865
+time taken: 0.0280
+
+Puzzle #691
+1 2 5 
+3 8 7 
+6 0 4 
+Solution:          
+length of solution: 9
+states checked: 763
+time taken: 0.0076
+
+Puzzle #692
+5 0 1 
+3 4 2 
+6 7 8 
+Solution:          
+length of solution: 9
+states checked: 1296
+time taken: 0.0127
+
+Puzzle #693
+4 3 5 
+0 2 1 
+6 7 8 
+Solution:          
+length of solution: 9
+states checked: 1233
+time taken: 0.0136
+
+Puzzle #694
+1 0 6 
+3 4 2 
+7 8 5 
+Solution:              
+length of solution: 13
+states checked: 9947
+time taken: 0.0968
+
+Puzzle #695
+3 1 2 
+0 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #696
+1 2 5 
+3 8 0 
+6 4 7 
+Solution:        
+length of solution: 7
+states checked: 293
+time taken: 0.0031
+
+Puzzle #697
+4 3 2 
+5 6 8 
+1 0 7 
+Solution:              
+length of solution: 13
+states checked: 10529
+time taken: 0.1025
+
+Puzzle #698
+1 2 5 
+7 6 0 
+3 8 4 
+Solution:            
+length of solution: 11
+states checked: 2560
+time taken: 0.0253
+
+Puzzle #699
+4 3 2 
+0 1 5 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 118
+time taken: 0.0014
+
+Puzzle #700
+3 0 2 
+7 1 5 
+4 6 8 
+Solution:        
+length of solution: 7
+states checked: 310
+time taken: 0.0032
+
+Puzzle #701
+3 1 2 
+7 6 0 
+4 8 5 
+Solution:          
+length of solution: 9
+states checked: 757
+time taken: 0.0077
+
+Puzzle #702
+1 4 5 
+0 2 8 
+6 3 7 
+Solution:              
+length of solution: 13
+states checked: 11009
+time taken: 0.1051
+
+Puzzle #703
+3 1 2 
+0 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #704
+3 1 2 
+6 8 4 
+7 0 5 
+Solution:        
+length of solution: 7
+states checked: 329
+time taken: 0.0033
+
+Puzzle #705
+3 2 8 
+0 6 1 
+7 5 4 
+Solution:              
+length of solution: 13
+states checked: 9587
+time taken: 0.0890
+
+Puzzle #706
+7 3 4 
+1 8 2 
+6 0 5 
+Solution:              
+length of solution: 13
+states checked: 12105
+time taken: 0.1116
+
+Puzzle #707
+1 5 4 
+7 2 0 
+3 6 8 
+Solution:            
+length of solution: 11
+states checked: 3146
+time taken: 0.0296
+
+Puzzle #708
+3 0 2 
+4 1 7 
+6 8 5 
+Solution:        
+length of solution: 7
+states checked: 278
+time taken: 0.0028
+
+Puzzle #709
+1 0 4 
+5 2 3 
+6 7 8 
+Solution:                
+length of solution: 15
+states checked: 28138
+time taken: 0.2596
+
+Puzzle #710
+3 1 2 
+0 7 5 
+4 6 8 
+Solution:      
+length of solution: 5
+states checked: 77
+time taken: 0.0009
+
+Puzzle #711
+4 3 2 
+0 1 5 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 118
+time taken: 0.0013
+
+Puzzle #712
+1 2 5 
+3 4 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 29
+time taken: 0.0005
+
+Puzzle #713
+1 0 5 
+3 2 7 
+6 8 4 
+Solution:          
+length of solution: 9
+states checked: 866
+time taken: 0.0084
+
+Puzzle #714
+3 1 2 
+7 6 5 
+4 0 8 
+Solution:        
+length of solution: 7
+states checked: 287
+time taken: 0.0029
+
+Puzzle #715
+1 4 2 
+6 3 5 
+7 0 8 
+Solution:      
+length of solution: 5
+states checked: 91
+time taken: 0.0010
+
+Puzzle #716
+1 2 5 
+3 4 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0009
+
+Puzzle #717
+1 2 5 
+0 6 4 
+7 3 8 
+Solution:          
+length of solution: 9
+states checked: 959
+time taken: 0.0091
+
+Puzzle #718
+4 1 5 
+2 6 8 
+3 0 7 
+Solution:              
+length of solution: 13
+states checked: 11098
+time taken: 0.1030
+
+Puzzle #719
+3 0 2 
+4 1 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 23
+time taken: 0.0004
+
+Puzzle #720
+4 2 5 
+1 3 0 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 417
+time taken: 0.0041
+
+Puzzle #721
+3 1 2 
+4 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 27
+time taken: 0.0004
+
+Puzzle #722
+4 0 5 
+2 3 1 
+6 7 8 
+Solution:            
+length of solution: 11
+states checked: 3095
+time taken: 0.0287
+
+Puzzle #723
+3 1 2 
+4 5 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 24
+time taken: 0.0004
+
+Puzzle #724
+1 5 8 
+0 3 2 
+6 4 7 
+Solution:            
+length of solution: 11
+states checked: 3184
+time taken: 0.0295
+
+Puzzle #725
+2 3 5 
+1 4 0 
+6 7 8 
+Solution:          
+length of solution: 9
+states checked: 1158
+time taken: 0.0109
+
+Puzzle #726
+3 7 5 
+2 6 4 
+1 0 8 
+Solution:                
+length of solution: 15
+states checked: 35790
+time taken: 0.3305
+
+Puzzle #727
+3 1 2 
+0 5 8 
+4 6 7 
+Solution:        
+length of solution: 7
+states checked: 241
+time taken: 0.0023
+
+Puzzle #728
+3 1 2 
+0 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #729
+1 6 4 
+0 7 2 
+3 8 5 
+Solution:              
+length of solution: 13
+states checked: 10099
+time taken: 0.0891
+
+Puzzle #730
+1 5 6 
+3 4 2 
+7 0 8 
+Solution:              
+length of solution: 13
+states checked: 11732
+time taken: 0.1030
+
+Puzzle #731
+7 0 1 
+4 5 2 
+3 6 8 
+Solution:              
+length of solution: 13
+states checked: 10498
+time taken: 0.0925
+
+Puzzle #732
+3 1 2 
+4 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 27
+time taken: 0.0004
+
+Puzzle #733
+3 1 2 
+4 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 27
+time taken: 0.0004
+
+Puzzle #734
+4 3 2 
+0 1 5 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 118
+time taken: 0.0012
+
+Puzzle #735
+3 0 2 
+4 1 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 23
+time taken: 0.0004
+
+Puzzle #736
+3 1 4 
+0 5 2 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 417
+time taken: 0.0039
+
+Puzzle #737
+3 0 1 
+6 4 2 
+7 8 5 
+Solution:        
+length of solution: 7
+states checked: 336
+time taken: 0.0031
+
+Puzzle #738
+3 7 1 
+4 8 2 
+6 0 5 
+Solution:          
+length of solution: 9
+states checked: 1239
+time taken: 0.0111
+
+Puzzle #739
+1 5 4 
+0 6 2 
+7 3 8 
+Solution:            
+length of solution: 11
+states checked: 2952
+time taken: 0.0265
+
+Puzzle #740
+3 0 5 
+2 1 4 
+6 7 8 
+Solution:          
+length of solution: 9
+states checked: 996
+time taken: 0.0091
+
+Puzzle #741
+3 1 2 
+6 4 0 
+7 8 5 
+Solution:      
+length of solution: 5
+states checked: 70
+time taken: 0.0008
+
+Puzzle #742
+3 5 1 
+6 2 0 
+7 4 8 
+Solution:          
+length of solution: 9
+states checked: 1105
+time taken: 0.0099
+
+Puzzle #743
+1 0 2 
+7 4 5 
+3 6 8 
+Solution:        
+length of solution: 7
+states checked: 312
+time taken: 0.0030
+
+Puzzle #744
+4 3 2 
+1 5 0 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 337
+time taken: 0.0032
+
+Puzzle #745
+1 0 2 
+3 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #746
+4 3 2 
+7 8 6 
+1 0 5 
+Solution:                
+length of solution: 15
+states checked: 28845
+time taken: 0.2548
+
+Puzzle #747
+3 1 2 
+0 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #748
+4 0 2 
+1 3 5 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 121
+time taken: 0.0013
+
+Puzzle #749
+1 0 2 
+3 7 5 
+6 8 4 
+Solution:          
+length of solution: 9
+states checked: 1051
+time taken: 0.0095
+
+Puzzle #750
+1 5 4 
+0 3 8 
+6 2 7 
+Solution:            
+length of solution: 11
+states checked: 2805
+time taken: 0.0250
+
+Puzzle #751
+4 5 3 
+1 7 2 
+6 0 8 
+Solution:            
+length of solution: 11
+states checked: 3851
+time taken: 0.0341
+
+Puzzle #752
+2 5 1 
+3 4 0 
+6 7 8 
+Solution:            
+length of solution: 11
+states checked: 3998
+time taken: 0.0353
+
+Puzzle #753
+1 7 4 
+3 2 5 
+6 0 8 
+Solution:            
+length of solution: 11
+states checked: 2494
+time taken: 0.0222
+
+Puzzle #754
+1 0 2 
+3 4 7 
+6 8 5 
+Solution:        
+length of solution: 7
+states checked: 280
+time taken: 0.0027
+
+Puzzle #755
+1 4 2 
+0 7 5 
+3 6 8 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0009
+
+Puzzle #756
+3 1 2 
+7 5 0 
+4 6 8 
+Solution:        
+length of solution: 7
+states checked: 323
+time taken: 0.0030
+
+Puzzle #757
+1 0 4 
+3 7 2 
+6 8 5 
+Solution:        
+length of solution: 7
+states checked: 345
+time taken: 0.0032
+
+Puzzle #758
+5 4 1 
+0 3 2 
+6 7 8 
+Solution:            
+length of solution: 11
+states checked: 3587
+time taken: 0.0319
+
+Puzzle #759
+3 1 2 
+0 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #760
+1 4 2 
+6 3 5 
+7 0 8 
+Solution:      
+length of solution: 5
+states checked: 91
+time taken: 0.0010
+
+Puzzle #761
+3 1 2 
+4 5 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 74
+time taken: 0.0008
+
+Puzzle #762
+1 2 5 
+3 7 0 
+6 8 4 
+Solution:        
+length of solution: 7
+states checked: 257
+time taken: 0.0025
+
+Puzzle #763
+3 5 1 
+4 2 0 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 355
+time taken: 0.0033
+
+Puzzle #764
+3 2 5 
+0 4 8 
+6 1 7 
+Solution:          
+length of solution: 9
+states checked: 934
+time taken: 0.0084
+
+Puzzle #765
+3 5 4 
+2 1 0 
+6 7 8 
+Solution:            
+length of solution: 11
+states checked: 3863
+time taken: 0.0341
+
+Puzzle #766
+2 5 1 
+3 4 0 
+6 7 8 
+Solution:            
+length of solution: 11
+states checked: 3998
+time taken: 0.0351
+
+Puzzle #767
+1 2 8 
+3 5 0 
+6 7 4 
+Solution:              
+length of solution: 13
+states checked: 7552
+time taken: 0.0672
+
+Puzzle #768
+1 4 2 
+0 8 7 
+3 6 5 
+Solution:          
+length of solution: 9
+states checked: 808
+time taken: 0.0080
+
+Puzzle #769
+3 5 1 
+4 2 8 
+6 0 7 
+Solution:          
+length of solution: 9
+states checked: 825
+time taken: 0.0078
+
+Puzzle #770
+3 1 8 
+0 2 4 
+6 5 7 
+Solution:              
+length of solution: 13
+states checked: 11325
+time taken: 0.1055
+
+Puzzle #771
+3 1 2 
+6 4 0 
+7 8 5 
+Solution:      
+length of solution: 5
+states checked: 70
+time taken: 0.0009
+
+Puzzle #772
+4 1 5 
+0 2 6 
+3 7 8 
+Solution:                
+length of solution: 15
+states checked: 33913
+time taken: 0.3314
+
+Puzzle #773
+3 5 1 
+0 7 2 
+4 6 8 
+Solution:          
+length of solution: 9
+states checked: 870
+time taken: 0.0097
+
+Puzzle #774
+1 4 2 
+3 5 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 26
+time taken: 0.0005
+
+Puzzle #775
+3 0 5 
+4 2 1 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 292
+time taken: 0.0034
+
+Puzzle #776
+4 0 1 
+5 3 2 
+6 7 8 
+Solution:          
+length of solution: 9
+states checked: 1017
+time taken: 0.0113
+
+Puzzle #777
+3 1 2 
+0 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #778
+3 0 5 
+4 2 1 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 292
+time taken: 0.0034
+
+Puzzle #779
+4 0 2 
+1 3 5 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 121
+time taken: 0.0016
+
+Puzzle #780
+3 1 2 
+6 4 0 
+8 5 7 
+Solution:            
+length of solution: 11
+states checked: 2340
+time taken: 0.0254
+
+Puzzle #781
+1 5 4 
+3 7 2 
+6 0 8 
+Solution:        
+length of solution: 7
+states checked: 402
+time taken: 0.0046
+
+Puzzle #782
+1 4 2 
+3 6 0 
+8 7 5 
+Solution:                
+length of solution: 15
+states checked: 26565
+time taken: 0.2528
+
+Puzzle #783
+1 4 2 
+3 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 29
+time taken: 0.0005
+
+Puzzle #784
+2 4 5 
+0 1 8 
+3 6 7 
+Solution:            
+length of solution: 11
+states checked: 3478
+time taken: 0.0322
+
+Puzzle #785
+1 4 2 
+0 7 5 
+3 6 8 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0009
+
+Puzzle #786
+1 0 4 
+3 5 2 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 106
+time taken: 0.0012
+
+Puzzle #787
+3 1 2 
+4 8 0 
+6 5 7 
+Solution:        
+length of solution: 7
+states checked: 288
+time taken: 0.0029
+
+Puzzle #788
+5 1 2 
+0 4 8 
+3 6 7 
+Solution:            
+length of solution: 11
+states checked: 3811
+time taken: 0.0350
+
+Puzzle #789
+1 8 2 
+0 3 4 
+6 7 5 
+Solution:              
+length of solution: 13
+states checked: 10487
+time taken: 0.0968
+
+Puzzle #790
+3 0 1 
+4 7 2 
+6 8 5 
+Solution:        
+length of solution: 7
+states checked: 343
+time taken: 0.0034
+
+Puzzle #791
+1 2 5 
+4 8 7 
+3 0 6 
+Solution:            
+length of solution: 11
+states checked: 2402
+time taken: 0.0224
+
+Puzzle #792
+1 0 2 
+3 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #793
+3 1 5 
+0 7 4 
+2 6 8 
+Solution:            
+length of solution: 11
+states checked: 2598
+time taken: 0.0241
+
+Puzzle #794
+5 1 4 
+0 8 2 
+6 7 3 
+Solution:                  
+length of solution: 17
+states checked: 108433
+time taken: 0.9868
+
+Puzzle #795
+3 2 5 
+6 1 0 
+7 4 8 
+Solution:        
+length of solution: 7
+states checked: 386
+time taken: 0.0036
+
+Puzzle #796
+3 0 5 
+2 7 4 
+1 6 8 
+Solution:              
+length of solution: 13
+states checked: 11278
+time taken: 0.0994
+
+Puzzle #797
+3 1 2 
+4 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 27
+time taken: 0.0004
+
+Puzzle #798
+1 4 2 
+3 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 29
+time taken: 0.0004
+
+Puzzle #799
+1 0 4 
+3 8 2 
+6 5 7 
+Solution:          
+length of solution: 9
+states checked: 1084
+time taken: 0.0098
+
+Puzzle #800
+4 7 2 
+6 3 5 
+1 0 8 
+Solution:              
+length of solution: 13
+states checked: 10861
+time taken: 0.0958
+
+Puzzle #801
+4 3 2 
+0 1 8 
+6 5 7 
+Solution:          
+length of solution: 9
+states checked: 1184
+time taken: 0.0106
+
+Puzzle #802
+1 4 2 
+3 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 29
+time taken: 0.0004
+
+Puzzle #803
+1 2 5 
+7 6 0 
+3 8 4 
+Solution:            
+length of solution: 11
+states checked: 2560
+time taken: 0.0230
+
+Puzzle #804
+1 4 2 
+7 8 0 
+3 5 6 
+Solution:            
+length of solution: 11
+states checked: 2773
+time taken: 0.0247
+
+Puzzle #805
+3 1 5 
+2 7 4 
+6 0 8 
+Solution:          
+length of solution: 9
+states checked: 1198
+time taken: 0.0107
+
+Puzzle #806
+1 0 4 
+3 7 2 
+6 8 5 
+Solution:        
+length of solution: 7
+states checked: 345
+time taken: 0.0032
+
+Puzzle #807
+3 0 1 
+6 4 2 
+7 8 5 
+Solution:        
+length of solution: 7
+states checked: 336
+time taken: 0.0031
+
+Puzzle #808
+3 2 5 
+7 6 1 
+4 0 8 
+Solution:            
+length of solution: 11
+states checked: 2872
+time taken: 0.0257
+
+Puzzle #809
+1 5 4 
+6 2 0 
+7 3 8 
+Solution:            
+length of solution: 11
+states checked: 2952
+time taken: 0.0262
+
+Puzzle #810
+1 4 3 
+0 5 2 
+6 7 8 
+Solution:            
+length of solution: 11
+states checked: 3998
+time taken: 0.0352
+
+Puzzle #811
+3 1 2 
+0 4 7 
+6 8 5 
+Solution:        
+length of solution: 7
+states checked: 323
+time taken: 0.0031
+
+Puzzle #812
+5 0 1 
+3 2 8 
+4 6 7 
+Solution:              
+length of solution: 13
+states checked: 10945
+time taken: 0.0969
+
+Puzzle #813
+3 1 2 
+4 5 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 74
+time taken: 0.0008
+
+Puzzle #814
+1 4 2 
+6 3 5 
+7 0 8 
+Solution:      
+length of solution: 5
+states checked: 91
+time taken: 0.0010
+
+Puzzle #815
+3 0 2 
+4 8 5 
+6 1 7 
+Solution:            
+length of solution: 11
+states checked: 3372
+time taken: 0.0300
+
+Puzzle #816
+1 4 2 
+3 7 0 
+6 8 5 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0009
+
+Puzzle #817
+6 3 5 
+2 4 1 
+7 0 8 
+Solution:              
+length of solution: 13
+states checked: 11047
+time taken: 0.0984
+
+Puzzle #818
+1 4 2 
+0 3 8 
+6 5 7 
+Solution:        
+length of solution: 7
+states checked: 290
+time taken: 0.0028
+
+Puzzle #819
+1 4 2 
+3 5 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 26
+time taken: 0.0004
+
+Puzzle #820
+6 3 2 
+0 1 4 
+7 8 5 
+Solution:          
+length of solution: 9
+states checked: 1212
+time taken: 0.0109
+
+Puzzle #821
+1 4 2 
+0 6 5 
+7 3 8 
+Solution:        
+length of solution: 7
+states checked: 305
+time taken: 0.0029
+
+Puzzle #822
+3 2 5 
+6 1 8 
+7 0 4 
+Solution:          
+length of solution: 9
+states checked: 856
+time taken: 0.0077
+
+Puzzle #823
+3 1 2 
+7 6 5 
+4 0 8 
+Solution:        
+length of solution: 7
+states checked: 287
+time taken: 0.0027
+
+Puzzle #824
+3 1 2 
+6 4 0 
+7 8 5 
+Solution:      
+length of solution: 5
+states checked: 70
+time taken: 0.0008
+
+Puzzle #825
+1 2 8 
+0 5 7 
+3 4 6 
+Solution:                
+length of solution: 15
+states checked: 22119
+time taken: 0.1961
+
+Puzzle #826
+1 0 2 
+3 6 4 
+7 8 5 
+Solution:          
+length of solution: 9
+states checked: 1257
+time taken: 0.0114
+
+Puzzle #827
+3 1 2 
+4 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 27
+time taken: 0.0004
+
+Puzzle #828
+4 2 5 
+6 3 0 
+7 1 8 
+Solution:            
+length of solution: 11
+states checked: 3699
+time taken: 0.0329
+
+Puzzle #829
+1 4 2 
+6 7 5 
+8 0 3 
+Solution:              
+length of solution: 13
+states checked: 7158
+time taken: 0.0643
+
+Puzzle #830
+1 5 4 
+0 2 8 
+3 6 7 
+Solution:            
+length of solution: 11
+states checked: 2374
+time taken: 0.0215
+
+Puzzle #831
+4 0 2 
+1 7 5 
+3 6 8 
+Solution:        
+length of solution: 7
+states checked: 390
+time taken: 0.0036
+
+Puzzle #832
+6 3 2 
+1 4 5 
+7 0 8 
+Solution:          
+length of solution: 9
+states checked: 1190
+time taken: 0.0108
+
+Puzzle #833
+1 4 2 
+6 3 5 
+7 0 8 
+Solution:      
+length of solution: 5
+states checked: 91
+time taken: 0.0010
+
+Puzzle #834
+3 2 5 
+4 1 0 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 118
+time taken: 0.0012
+
+Puzzle #835
+6 3 2 
+1 5 0 
+7 4 8 
+Solution:          
+length of solution: 9
+states checked: 1043
+time taken: 0.0094
+
+Puzzle #836
+1 4 2 
+6 3 5 
+7 0 8 
+Solution:      
+length of solution: 5
+states checked: 91
+time taken: 0.0010
+
+Puzzle #837
+1 4 2 
+6 5 8 
+7 0 3 
+Solution:          
+length of solution: 9
+states checked: 775
+time taken: 0.0071
+
+Puzzle #838
+3 0 2 
+7 1 5 
+4 6 8 
+Solution:        
+length of solution: 7
+states checked: 310
+time taken: 0.0029
+
+Puzzle #839
+1 2 5 
+3 8 7 
+6 0 4 
+Solution:          
+length of solution: 9
+states checked: 763
+time taken: 0.0070
+
+Puzzle #840
+1 4 2 
+0 3 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 26
+time taken: 0.0004
+
+Puzzle #841
+4 3 1 
+0 5 2 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 415
+time taken: 0.0039
+
+Puzzle #842
+1 2 5 
+3 4 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 29
+time taken: 0.0004
+
+Puzzle #843
+1 4 2 
+6 3 5 
+7 0 8 
+Solution:      
+length of solution: 5
+states checked: 91
+time taken: 0.0010
+
+Puzzle #844
+2 0 5 
+3 4 8 
+6 1 7 
+Solution:            
+length of solution: 11
+states checked: 3801
+time taken: 0.0337
+
+Puzzle #845
+1 3 4 
+0 8 2 
+6 7 5 
+Solution:              
+length of solution: 13
+states checked: 7995
+time taken: 0.0737
+
+Puzzle #846
+1 5 2 
+3 8 7 
+4 0 6 
+Solution:              
+length of solution: 13
+states checked: 7711
+time taken: 0.0685
+
+Puzzle #847
+3 1 2 
+6 4 5 
+7 0 8 
+Solution:    
+length of solution: 3
+states checked: 20
+time taken: 0.0004
+
+Puzzle #848
+3 1 2 
+0 5 8 
+6 7 4 
+Solution:          
+length of solution: 9
+states checked: 757
+time taken: 0.0070
+
+Puzzle #849
+1 4 3 
+5 8 7 
+6 0 2 
+Solution:                  
+length of solution: 17
+states checked: 89669
+time taken: 0.8001
+
+Puzzle #850
+1 5 4 
+0 3 2 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 357
+time taken: 0.0036
+
+Puzzle #851
+4 0 2 
+3 5 1 
+6 7 8 
+Solution:                
+length of solution: 15
+states checked: 35682
+time taken: 0.3323
+
+Puzzle #852
+4 0 2 
+1 3 5 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 121
+time taken: 0.0013
+
+Puzzle #853
+4 0 1 
+6 3 2 
+7 5 8 
+Solution:            
+length of solution: 11
+states checked: 2581
+time taken: 0.0239
+
+Puzzle #854
+1 2 5 
+7 4 8 
+3 0 6 
+Solution:            
+length of solution: 11
+states checked: 2413
+time taken: 0.0225
+
+Puzzle #855
+1 2 5 
+3 7 0 
+6 8 4 
+Solution:        
+length of solution: 7
+states checked: 257
+time taken: 0.0026
+
+Puzzle #856
+3 5 1 
+6 2 0 
+7 4 8 
+Solution:          
+length of solution: 9
+states checked: 1105
+time taken: 0.0105
+
+Puzzle #857
+1 4 2 
+6 3 5 
+7 0 8 
+Solution:      
+length of solution: 5
+states checked: 91
+time taken: 0.0010
+
+Puzzle #858
+4 2 7 
+1 3 0 
+6 8 5 
+Solution:            
+length of solution: 11
+states checked: 3986
+time taken: 0.0369
+
+Puzzle #859
+1 0 4 
+3 7 2 
+6 8 5 
+Solution:        
+length of solution: 7
+states checked: 345
+time taken: 0.0034
+
+Puzzle #860
+3 1 2 
+4 8 7 
+6 0 5 
+Solution:        
+length of solution: 7
+states checked: 336
+time taken: 0.0033
+
+Puzzle #861
+1 4 2 
+6 3 5 
+7 0 8 
+Solution:      
+length of solution: 5
+states checked: 91
+time taken: 0.0010
+
+Puzzle #862
+3 1 5 
+0 2 7 
+6 8 4 
+Solution:            
+length of solution: 11
+states checked: 3733
+time taken: 0.0343
+
+Puzzle #863
+6 3 1 
+0 4 2 
+7 8 5 
+Solution:          
+length of solution: 9
+states checked: 1277
+time taken: 0.0119
+
+Puzzle #864
+1 0 4 
+3 8 2 
+7 6 5 
+Solution:                
+length of solution: 15
+states checked: 33783
+time taken: 0.3026
+
+Puzzle #865
+6 1 2 
+4 5 0 
+7 3 8 
+Solution:            
+length of solution: 11
+states checked: 3196
+time taken: 0.0283
+
+Puzzle #866
+6 0 2 
+4 1 3 
+7 8 5 
+Solution:              
+length of solution: 13
+states checked: 9217
+time taken: 0.0817
+
+Puzzle #867
+4 3 2 
+0 1 5 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 118
+time taken: 0.0012
+
+Puzzle #868
+3 1 2 
+0 6 5 
+7 4 8 
+Solution:      
+length of solution: 5
+states checked: 90
+time taken: 0.0010
+
+Puzzle #869
+3 5 8 
+6 2 0 
+7 1 4 
+Solution:              
+length of solution: 13
+states checked: 10978
+time taken: 0.0969
+
+Puzzle #870
+1 0 7 
+3 5 2 
+4 6 8 
+Solution:            
+length of solution: 11
+states checked: 3575
+time taken: 0.0316
+
+Puzzle #871
+3 1 2 
+6 4 5 
+7 0 8 
+Solution:    
+length of solution: 3
+states checked: 20
+time taken: 0.0004
+
+Puzzle #872
+3 2 5 
+4 1 0 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 118
+time taken: 0.0013
+
+Puzzle #873
+6 1 4 
+3 2 0 
+7 8 5 
+Solution:              
+length of solution: 13
+states checked: 9865
+time taken: 0.0881
+
+Puzzle #874
+3 0 2 
+4 1 8 
+6 5 7 
+Solution:        
+length of solution: 7
+states checked: 243
+time taken: 0.0024
+
+Puzzle #875
+2 3 5 
+1 4 0 
+6 7 8 
+Solution:          
+length of solution: 9
+states checked: 1158
+time taken: 0.0104
+
+Puzzle #876
+1 0 5 
+3 2 7 
+4 6 8 
+Solution:            
+length of solution: 11
+states checked: 2850
+time taken: 0.0254
+
+Puzzle #877
+6 3 2 
+1 4 5 
+7 0 8 
+Solution:          
+length of solution: 9
+states checked: 1190
+time taken: 0.0107
+
+Puzzle #878
+1 2 5 
+3 6 0 
+7 4 8 
+Solution:          
+length of solution: 9
+states checked: 1297
+time taken: 0.0117
+
+Puzzle #879
+1 2 5 
+3 4 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 29
+time taken: 0.0004
+
+Puzzle #880
+3 5 1 
+6 2 0 
+7 4 8 
+Solution:          
+length of solution: 9
+states checked: 1105
+time taken: 0.0100
+
+Puzzle #881
+3 0 2 
+7 1 5 
+4 6 8 
+Solution:        
+length of solution: 7
+states checked: 310
+time taken: 0.0029
+
+Puzzle #882
+3 5 1 
+6 4 2 
+7 0 8 
+Solution:          
+length of solution: 9
+states checked: 972
+time taken: 0.0088
+
+Puzzle #883
+3 1 2 
+6 5 8 
+7 0 4 
+Solution:        
+length of solution: 7
+states checked: 242
+time taken: 0.0024
+
+Puzzle #884
+1 2 5 
+0 7 4 
+3 6 8 
+Solution:        
+length of solution: 7
+states checked: 257
+time taken: 0.0026
+
+Puzzle #885
+3 1 2 
+4 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 27
+time taken: 0.0004
+
+Puzzle #886
+3 1 4 
+7 2 0 
+6 8 5 
+Solution:            
+length of solution: 11
+states checked: 3281
+time taken: 0.0290
+
+Puzzle #887
+3 1 2 
+0 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #888
+1 0 2 
+3 8 4 
+6 7 5 
+Solution:            
+length of solution: 11
+states checked: 3666
+time taken: 0.0323
+
+Puzzle #889
+1 4 2 
+0 3 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 26
+time taken: 0.0004
+
+Puzzle #890
+3 1 2 
+4 5 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 24
+time taken: 0.0004
+
+Puzzle #891
+1 5 8 
+3 2 0 
+6 4 7 
+Solution:          
+length of solution: 9
+states checked: 1189
+time taken: 0.0106
+
+Puzzle #892
+3 1 2 
+4 5 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 24
+time taken: 0.0004
+
+Puzzle #893
+3 1 8 
+6 4 5 
+2 0 7 
+Solution:                  
+length of solution: 17
+states checked: 78863
+time taken: 0.7268
+
+Puzzle #894
+6 1 4 
+5 3 2 
+7 0 8 
+Solution:              
+length of solution: 13
+states checked: 11250
+time taken: 0.1033
+
+Puzzle #895
+3 1 2 
+6 5 8 
+7 0 4 
+Solution:        
+length of solution: 7
+states checked: 242
+time taken: 0.0025
+
+Puzzle #896
+3 0 2 
+4 1 8 
+6 5 7 
+Solution:        
+length of solution: 7
+states checked: 243
+time taken: 0.0024
+
+Puzzle #897
+3 2 5 
+4 1 0 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 118
+time taken: 0.0013
+
+Puzzle #898
+5 0 1 
+3 4 2 
+6 7 8 
+Solution:          
+length of solution: 9
+states checked: 1296
+time taken: 0.0121
+
+Puzzle #899
+1 0 5 
+3 2 4 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 83
+time taken: 0.0010
+
+Puzzle #900
+1 0 5 
+3 2 8 
+6 4 7 
+Solution:        
+length of solution: 7
+states checked: 248
+time taken: 0.0025
+
+Puzzle #901
+3 2 5 
+4 1 8 
+6 0 7 
+Solution:        
+length of solution: 7
+states checked: 270
+time taken: 0.0027
+
+Puzzle #902
+1 4 2 
+6 8 3 
+7 0 5 
+Solution:          
+length of solution: 9
+states checked: 1054
+time taken: 0.0099
+
+Puzzle #903
+1 4 2 
+0 3 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 26
+time taken: 0.0004
+
+Puzzle #904
+3 1 2 
+4 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 27
+time taken: 0.0004
+
+Puzzle #905
+3 2 5 
+0 1 8 
+7 4 6 
+Solution:              
+length of solution: 13
+states checked: 7318
+time taken: 0.0685
+
+Puzzle #906
+3 1 2 
+4 5 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 24
+time taken: 0.0004
+
+Puzzle #907
+4 3 1 
+5 2 8 
+6 0 7 
+Solution:            
+length of solution: 11
+states checked: 2472
+time taken: 0.0232
+
+Puzzle #908
+3 1 2 
+7 6 5 
+4 0 8 
+Solution:        
+length of solution: 7
+states checked: 287
+time taken: 0.0029
+
+Puzzle #909
+1 4 2 
+3 5 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 76
+time taken: 0.0009
+
+Puzzle #910
+1 4 2 
+7 6 5 
+3 0 8 
+Solution:        
+length of solution: 7
+states checked: 370
+time taken: 0.0036
+
+Puzzle #911
+3 1 2 
+7 5 0 
+4 6 8 
+Solution:        
+length of solution: 7
+states checked: 323
+time taken: 0.0032
+
+Puzzle #912
+3 1 2 
+4 5 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 24
+time taken: 0.0004
+
+Puzzle #913
+1 4 2 
+6 5 8 
+7 0 3 
+Solution:          
+length of solution: 9
+states checked: 775
+time taken: 0.0073
+
+Puzzle #914
+1 4 2 
+0 3 8 
+6 5 7 
+Solution:        
+length of solution: 7
+states checked: 290
+time taken: 0.0029
+
+Puzzle #915
+1 5 8 
+6 3 0 
+2 4 7 
+Solution:                  
+length of solution: 17
+states checked: 63248
+time taken: 0.5832
+
+Puzzle #916
+1 0 5 
+3 2 4 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 83
+time taken: 0.0009
+
+Puzzle #917
+3 1 2 
+7 5 8 
+4 0 6 
+Solution:          
+length of solution: 9
+states checked: 793
+time taken: 0.0072
+
+Puzzle #918
+3 1 2 
+6 4 0 
+7 8 5 
+Solution:      
+length of solution: 5
+states checked: 70
+time taken: 0.0008
+
+Puzzle #919
+1 0 5 
+3 2 7 
+6 8 4 
+Solution:          
+length of solution: 9
+states checked: 866
+time taken: 0.0079
+
+Puzzle #920
+1 2 5 
+3 4 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0009
+
+Puzzle #921
+3 2 7 
+4 1 0 
+6 8 5 
+Solution:          
+length of solution: 9
+states checked: 1219
+time taken: 0.0109
+
+Puzzle #922
+3 1 2 
+4 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 27
+time taken: 0.0004
+
+Puzzle #923
+1 2 5 
+3 4 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0009
+
+Puzzle #924
+4 3 2 
+1 7 0 
+6 8 5 
+Solution:          
+length of solution: 9
+states checked: 852
+time taken: 0.0077
+
+Puzzle #925
+2 7 5 
+1 6 0 
+3 8 4 
+Solution:              
+length of solution: 13
+states checked: 8156
+time taken: 0.0720
+
+Puzzle #926
+3 2 5 
+6 4 1 
+7 0 8 
+Solution:          
+length of solution: 9
+states checked: 954
+time taken: 0.0086
+
+Puzzle #927
+3 0 2 
+7 1 5 
+4 6 8 
+Solution:        
+length of solution: 7
+states checked: 310
+time taken: 0.0029
+
+Puzzle #928
+1 2 4 
+3 8 0 
+6 7 5 
+Solution:              
+length of solution: 13
+states checked: 11810
+time taken: 0.1039
+
+Puzzle #929
+4 2 5 
+0 1 6 
+7 3 8 
+Solution:              
+length of solution: 13
+states checked: 9927
+time taken: 0.0882
+
+Puzzle #930
+4 0 2 
+6 3 5 
+7 1 8 
+Solution:          
+length of solution: 9
+states checked: 832
+time taken: 0.0077
+
+Puzzle #931
+3 2 5 
+0 7 1 
+4 6 8 
+Solution:          
+length of solution: 9
+states checked: 820
+time taken: 0.0075
+
+Puzzle #932
+6 3 2 
+0 1 5 
+7 4 8 
+Solution:        
+length of solution: 7
+states checked: 386
+time taken: 0.0036
+
+Puzzle #933
+3 1 2 
+4 5 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 24
+time taken: 0.0004
+
+Puzzle #934
+1 4 2 
+0 3 7 
+6 8 5 
+Solution:        
+length of solution: 7
+states checked: 325
+time taken: 0.0031
+
+Puzzle #935
+1 2 5 
+6 3 0 
+7 8 4 
+Solution:          
+length of solution: 9
+states checked: 765
+time taken: 0.0070
+
+Puzzle #936
+1 5 4 
+3 2 0 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 357
+time taken: 0.0033
+
+Puzzle #937
+1 4 2 
+0 7 5 
+3 6 8 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0009
+
+Puzzle #938
+7 3 1 
+5 6 2 
+4 0 8 
+Solution:              
+length of solution: 13
+states checked: 11268
+time taken: 0.0992
+
+Puzzle #939
+1 4 2 
+0 5 8 
+3 6 7 
+Solution:        
+length of solution: 7
+states checked: 243
+time taken: 0.0024
+
+Puzzle #940
+1 4 2 
+3 5 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 76
+time taken: 0.0008
+
+Puzzle #941
+4 0 2 
+1 8 5 
+6 3 7 
+Solution:              
+length of solution: 13
+states checked: 10115
+time taken: 0.0919
+
+Puzzle #942
+4 7 2 
+1 8 5 
+6 0 3 
+Solution:                
+length of solution: 15
+states checked: 34291
+time taken: 0.3059
+
+Puzzle #943
+3 5 1 
+0 4 2 
+6 7 8 
+Solution:        
+length of solution: 7
+states checked: 355
+time taken: 0.0035
+
+Puzzle #944
+1 4 2 
+3 7 0 
+6 8 5 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0009
+
+Puzzle #945
+1 0 2 
+3 8 7 
+4 6 5 
+Solution:            
+length of solution: 11
+states checked: 3673
+time taken: 0.0326
+
+Puzzle #946
+3 0 1 
+6 4 2 
+7 8 5 
+Solution:        
+length of solution: 7
+states checked: 336
+time taken: 0.0032
+
+Puzzle #947
+7 4 2 
+3 6 5 
+1 0 8 
+Solution:                
+length of solution: 15
+states checked: 33430
+time taken: 0.3011
+
+Puzzle #948
+1 2 5 
+4 8 0 
+3 6 7 
+Solution:          
+length of solution: 9
+states checked: 1002
+time taken: 0.0091
+
+Puzzle #949
+3 2 4 
+6 1 0 
+7 8 5 
+Solution:          
+length of solution: 9
+states checked: 1212
+time taken: 0.0109
+
+Puzzle #950
+1 0 2 
+3 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #951
+1 2 5 
+3 4 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0009
+
+Puzzle #952
+3 1 4 
+6 5 7 
+8 0 2 
+Solution:                
+length of solution: 15
+states checked: 26038
+time taken: 0.2398
+
+Puzzle #953
+3 0 2 
+6 1 5 
+7 4 8 
+Solution:      
+length of solution: 5
+states checked: 75
+time taken: 0.0009
+
+Puzzle #954
+1 0 2 
+3 8 5 
+6 4 7 
+Solution:          
+length of solution: 9
+states checked: 1087
+time taken: 0.0103
+
+Puzzle #955
+3 0 5 
+6 2 1 
+7 4 8 
+Solution:          
+length of solution: 9
+states checked: 896
+time taken: 0.0086
+
+Puzzle #956
+3 1 2 
+4 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 27
+time taken: 0.0004
+
+Puzzle #957
+1 0 2 
+3 4 7 
+6 8 5 
+Solution:        
+length of solution: 7
+states checked: 280
+time taken: 0.0028
+
+Puzzle #958
+1 4 2 
+6 3 7 
+8 0 5 
+Solution:          
+length of solution: 9
+states checked: 942
+time taken: 0.0089
+
+Puzzle #959
+1 0 4 
+6 5 2 
+7 3 8 
+Solution:          
+length of solution: 9
+states checked: 1099
+time taken: 0.0104
+
+Puzzle #960
+1 7 2 
+0 3 5 
+4 6 8 
+Solution:          
+length of solution: 9
+states checked: 1137
+time taken: 0.0108
+
+Puzzle #961
+2 3 5 
+1 8 7 
+6 0 4 
+Solution:              
+length of solution: 13
+states checked: 7763
+time taken: 0.0729
+
+Puzzle #962
+1 4 2 
+7 5 0 
+3 6 8 
+Solution:        
+length of solution: 7
+states checked: 325
+time taken: 0.0032
+
+Puzzle #963
+7 3 1 
+0 5 2 
+4 6 8 
+Solution:            
+length of solution: 11
+states checked: 3984
+time taken: 0.0372
+
+Puzzle #964
+1 0 5 
+6 2 4 
+7 3 8 
+Solution:          
+length of solution: 9
+states checked: 812
+time taken: 0.0078
+
+Puzzle #965
+3 1 2 
+0 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #966
+1 0 2 
+3 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #967
+1 4 2 
+3 5 0 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 26
+time taken: 0.0004
+
+Puzzle #968
+1 5 4 
+7 2 0 
+3 6 8 
+Solution:            
+length of solution: 11
+states checked: 3146
+time taken: 0.0282
+
+Puzzle #969
+1 2 5 
+3 4 8 
+6 0 7 
+Solution:      
+length of solution: 5
+states checked: 79
+time taken: 0.0009
+
+Puzzle #970
+1 0 2 
+3 7 5 
+4 6 8 
+Solution:        
+length of solution: 7
+states checked: 388
+time taken: 0.0036
+
+Puzzle #971
+3 1 2 
+7 5 8 
+4 0 6 
+Solution:          
+length of solution: 9
+states checked: 793
+time taken: 0.0072
+
+Puzzle #972
+3 0 1 
+4 7 2 
+5 6 8 
+Solution:              
+length of solution: 13
+states checked: 11192
+time taken: 0.0982
+
+Puzzle #973
+3 1 2 
+6 5 0 
+7 4 8 
+Solution:      
+length of solution: 5
+states checked: 90
+time taken: 0.0010
+
+Puzzle #974
+7 0 2 
+4 5 8 
+1 3 6 
+Solution:                
+length of solution: 15
+states checked: 33041
+time taken: 0.2913
+
+Puzzle #975
+2 3 5 
+1 7 4 
+6 0 8 
+Solution:          
+length of solution: 9
+states checked: 1305
+time taken: 0.0117
+
+Puzzle #976
+1 0 4 
+3 5 2 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 106
+time taken: 0.0011
+
+Puzzle #977
+3 0 1 
+7 5 2 
+4 6 8 
+Solution:          
+length of solution: 9
+states checked: 1117
+time taken: 0.0101
+
+Puzzle #978
+4 0 2 
+1 3 5 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 121
+time taken: 0.0013
+
+Puzzle #979
+4 2 7 
+1 3 5 
+6 0 8 
+Solution:              
+length of solution: 13
+states checked: 8224
+time taken: 0.0726
+
+Puzzle #980
+4 3 2 
+0 1 8 
+6 5 7 
+Solution:          
+length of solution: 9
+states checked: 1184
+time taken: 0.0106
+
+Puzzle #981
+1 4 2 
+5 8 0 
+3 6 7 
+Solution:          
+length of solution: 9
+states checked: 999
+time taken: 0.0090
+
+Puzzle #982
+3 0 2 
+4 1 8 
+6 5 7 
+Solution:        
+length of solution: 7
+states checked: 243
+time taken: 0.0023
+
+Puzzle #983
+1 0 5 
+4 2 8 
+3 6 7 
+Solution:          
+length of solution: 9
+states checked: 947
+time taken: 0.0085
+
+Puzzle #984
+1 4 2 
+3 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 29
+time taken: 0.0004
+
+Puzzle #985
+1 4 2 
+0 3 5 
+6 7 8 
+Solution:    
+length of solution: 3
+states checked: 26
+time taken: 0.0004
+
+Puzzle #986
+4 0 2 
+1 6 5 
+7 3 8 
+Solution:          
+length of solution: 9
+states checked: 1246
+time taken: 0.0111
+
+Puzzle #987
+2 6 5 
+0 1 4 
+7 3 8 
+Solution:              
+length of solution: 13
+states checked: 10647
+time taken: 0.0931
+
+Puzzle #988
+3 2 5 
+4 1 0 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 118
+time taken: 0.0012
+
+Puzzle #989
+3 2 5 
+4 7 1 
+6 0 8 
+Solution:        
+length of solution: 7
+states checked: 350
+time taken: 0.0033
+
+Puzzle #990
+4 3 2 
+0 1 7 
+6 8 5 
+Solution:          
+length of solution: 9
+states checked: 1219
+time taken: 0.0109
+
+Puzzle #991
+3 1 2 
+4 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 27
+time taken: 0.0004
+
+Puzzle #992
+3 1 2 
+0 6 8 
+7 5 4 
+Solution:          
+length of solution: 9
+states checked: 906
+time taken: 0.0081
+
+Puzzle #993
+3 1 2 
+0 4 5 
+6 7 8 
+Solution:  
+length of solution: 1
+states checked: 3
+time taken: 0.0002
+
+Puzzle #994
+3 1 2 
+4 7 5 
+6 0 8 
+Solution:    
+length of solution: 3
+states checked: 27
+time taken: 0.0004
+
+Puzzle #995
+3 1 2 
+4 7 6 
+8 0 5 
+Solution:              
+length of solution: 13
+states checked: 8592
+time taken: 0.0760
+
+Puzzle #996
+3 1 2 
+6 4 5 
+7 0 8 
+Solution:    
+length of solution: 3
+states checked: 20
+time taken: 0.0004
+
+Puzzle #997
+1 6 2 
+3 4 5 
+7 0 8 
+Solution:          
+length of solution: 9
+states checked: 1297
+time taken: 0.0116
+
+Puzzle #998
+1 2 5 
+0 3 4 
+6 7 8 
+Solution:      
+length of solution: 5
+states checked: 98
+time taken: 0.0011
+
+Puzzle #999
+2 0 5 
+1 4 8 
+3 6 7 
+Solution:          
+length of solution: 9
+states checked: 1187
+time taken: 0.0107
+
+Puzzle #1000
+3 0 1 
+2 4 5 
+6 7 8 
+Solution:            
+length of solution: 11
+states checked: 3489
+time taken: 0.0309
+
+average length of solution = 8.102
+avg number of states checked: 5149.89
+max depth: 19
