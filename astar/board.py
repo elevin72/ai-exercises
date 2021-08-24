@@ -24,9 +24,10 @@ class Board:
         return copy.deepcopy(self)
 
     def randomize(self):
-        for _ in range(self.n**3):
+        for _ in range(self.n**4):
             self = self.do_random_move()
         return self
+
 
     def move_is_legal(self, move):
         if move == UP:
@@ -66,7 +67,6 @@ class Board:
 
     def is_solved(self):
         return self.tiles == self.end_state
-
 
     def print_board(self):
         for i in range(self.n):

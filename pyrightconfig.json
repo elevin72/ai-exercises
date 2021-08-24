@@ -1,0 +1,16 @@
+{
+  "executionEnvironments": [
+    {
+      "root": "astar"
+    },
+    {
+      "root": "ex01"
+    },
+    {
+      "root": "ex02"
+    },
+    {
+      "root": "connect-four"
+    }
+  ]
+}
