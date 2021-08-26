@@ -1,15 +1,6 @@
 from abminimax import *
 
 
-b = Board(
-        ['       ',
-         '       ',
-         '       ',
-         '       ',
-         '   X   ',
-         '   O   '],
-        'X')
-print(b.value)
 # b = Board(
 #        [' OXX OO',
 #         'OXXO XX',
@@ -26,8 +17,18 @@ print(b.value)
 #         'OXOO OO',
 #         'XOXOOXO',
 #         'XOOOXXX'],
-#         'X')
-# b.evaluate()
+
+
+b = Board(
+       [' O X X ',
+        ' X X O ',
+        'XO O X ',
+        'OO O O ',
+        'OO XOX ',
+        'XX OXX '],
+        'X')
+a = ab_minimax(b, 2, -math.inf, math.inf, b.turn == 'X')[1]
+b.evaluate()
 
 c = Board(
         ['       ',

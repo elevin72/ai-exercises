@@ -1,4 +1,5 @@
 from __future__ import annotations
+from collections import namedtuple
 from enum import Enum
 import math
 import random
@@ -44,27 +45,35 @@ class EndState(Enum):
     X_win = 1
     tie = 2
 
-class WinningSquare:
+Index = namedtuple('Index', 'row col')
 
-    def __init__(self, index, turn, immediate):
+class Threat:
+    def __init__(self, index: Index, turn: str):
         self.index = index
         self.turn = turn
-        self.immediate = immediate
     
-    @staticmethod
-    def is_winning(s1: WinningSquare, s2: WinningSquare) -> bool:
-        if s1.turn == s2.turn:
-            if s1.immediate and s2.immediate and s1.index != s2.index:
-                return True
-            if (s1.immediate or s2.immediate) and abs(s1.index[0] - s2.index[0]) == 1 and s1.index[1] == s2.index[1]:
-                return True
-        return False
+    def is_one_away(self, other) -> bool:
+        return abs(self.index.row - other.index.row) == 1 and self.index.col == other.index.col
 
+    def __eq__(self, o: object) -> bool:
+        return self.index == o.index and self.turn == o.turn
+
+    def __hash__(self) -> int:
+        return hash(self.index.row) + hash(self.index.col) + hash(self.turn)
+
+
+    
 class Board:
 
     def __init__(self, board=None, turn=None):
         self.board = board or [' '*WIDTH for _ in range(HEIGHT)]
         self.turn = turn or 'X'
+        if self.turn == 'X':
+            self.parity = 1
+            self.factor = 1
+        else:
+            self.parity = 0
+            self.factor = -1
         self.end_state = None
         self.value = self.evaluate()
 
@@ -76,6 +85,17 @@ class Board:
                 print("|" + spot, end="")
             print("|")
         print("  1 2 3 4 5 6 7\n")
+        self._print()
+
+    def _print(self):
+        print("b = Board(")
+        print("       ['" + self.board[0] + "',")
+        print("        '" + self.board[1] + "',")
+        print("        '" + self.board[2] + "',")
+        print("        '" + self.board[3] + "',")
+        print("        '" + self.board[4] + "',")
+        print("        '" + self.board[5] + "'],")
+        print("        '" + self.turn + "')")
 
     def is_legal_move(self, col):
         return self.board[0][col] == ' '
@@ -115,37 +135,41 @@ class Board:
             return 0
 
         value = 0
-        self.w_squares = []
+        self.x_threats = set()
+        self.o_threats = set()
 
         # horizontals
         for i in range(HEIGHT):
-            value += self.contains_value([(i,j) for j in range(WIDTH)])
+            value += self.contains_value([Index(i,j) for j in range(WIDTH)])
 
         # vertical
         for j in range(WIDTH):
-            value += self.contains_value([(i,j) for i in range(HEIGHT)])
+            value += self.contains_value([Index(i,j) for i in range(HEIGHT)])
 
         # diagonal top-left to bottom-right
         for i in range(4):
-            value += self.contains_value(self.get_primary_diagonal((0,i)))
+            idx = Index(0,i)
+            value += self.contains_value(self.get_primary_diagonal(Index(0,i)))
         for i in range(1,3):
-            value += self.contains_value(self.get_primary_diagonal((i,0)))
+            value += self.contains_value(self.get_primary_diagonal(Index(i,0)))
 
         # diagonal top-right to bottom-left
         for i in range(3,7):
-            value += self.contains_value(self.get_secondary_diagonal((0,i)))
+            value += self.contains_value(self.get_secondary_diagonal(Index(0,i)))
         for i in range(1,3):
-            value += self.contains_value(self.get_secondary_diagonal((i,6)))
+            value += self.contains_value(self.get_secondary_diagonal(Index(i,6)))
 
-        # check blocks of threes
-        value += self._check_winning_squares()
+        # check threats
+        value += self._check_threats1(self.x_threats)
+        value += self._check_threats1(self.o_threats)
+        # value += self._check_threats2()
 
         return value
 
-    def _stringify(self, indices: list[tuple(int, int)]) -> str:
+    def _stringify(self, indices: list[Index]) -> str:
         ret = ""
         for index in indices:
-            ret += self.board[index[0]][index[1]]
+            ret += self.board[index.row][index.col]
         return ret
 
     def game_over(self):
@@ -159,10 +183,10 @@ class Board:
                     return math.inf
                 if pattern == 'OOOO':
                     self.end_state = EndState.O_win
-                    return -math.inf
+                    return -math.inf 
         return 0
 
-    def contains_value(self, indices: list[tuple(int,int)]) -> int:
+    def contains_value(self, indices: list[Index]) -> int:
         line = self._stringify(indices)
         value = 0
         value += self._game_over(line)
@@ -170,45 +194,56 @@ class Board:
             if combo in line:
                 value += combos[combo]
                 if combo.count(' ') == 1: # 3 of other character
-                    """ Get index that contains potentially winning square"""
+                    """ Get index that contains threat"""
                     index = indices[line.index(combo) + combo.index(' ')]
-                    self._save_square(index, combo)
+                    self._save_threat(index, combo)
         return value
 
-    def _save_square(self, index, combo):
+    def _save_threat(self, index: Index, combo: str):
         if 'X' in combo:
-            turn = 'X'
+            self.x_threats.add(Threat(index, 'X'))
         else:
-            turn = 'O'
-        """ Below logic just checking if the given index has something underneath it,
-            other piece or bottom of board"""
-        if index[0] == HEIGHT - 1 or self.board[index[0] + 1][index[1]] != ' ':
-            immediate = True
-        elif (self.board[index[0] + 1][index[1]] == ' ' and
-                (index[0] == HEIGHT - 2 or self.board[index[0] + 2][index[1]] != ' ')):
-            immediate = False
-        else:
-            return # dont care about square
-        self.w_squares.append(WinningSquare(index, turn, immediate))
+            self.o_threats.add(Threat(index, 'O'))
 
-    def _check_winning_squares(self) -> int:
-        """ elements of w_squares are of type WinningSquare"""
-        for i in range(len(self.w_squares)):
-            if (self.w_squares[i].immediate and self.turn == self.w_squares[i].turn):
-                """ Then it is my turn and I have a winning square"""
-                if self.turn == 'X':
-                    return 1000
-                else:
-                    return -1000
-            for j in range(i+1 ,len(self.w_squares)):
-                if WinningSquare.is_winning(self.w_squares[i], self.w_squares[j]):
-                    """ Then I have 2 winning squares and even if it is not my turn I will win"""
-                    if self.w_squares[i].turn == 'X':
-                        return 1000
-                    else:
-                        return -1000
+    def _check_threats1(self, threats: set[Threat]) -> int:
+        immediates = 0
+        for t1 in threats:
+            if t1.index.row == HEIGHT - 1 or self.board[t1.index.row + 1][t1.index.col] != ' ':
+                if t1.turn == self.turn:
+                    return 100_000 * self.factor
+                immediates += 1
+            if immediates > 1:
+                return 100_000 * self.factor
+            for t2 in threats:
+                if t1.is_one_away(t2):
+                    return 100 * self.factor * (t1.index.row + t2.index.row) # a lil janky
         return 0
 
+    def _check_threats2(self):
+        def threats_under(threat, o_threats, parity) -> bool:
+            if threat.index.row == HEIGHT:
+                return False
+            for row in range(threat.index.row + 1, HEIGHT+1):
+                for ot in o_threats:
+                    if ot.index.row < row and ot.index.col == ot.index.col and ot.index.row % 2 == parity:
+                        return True
+            return False
+
+        count_threats = lambda threats, parity: sum(1 for t in threats if t.index.row % 2 == parity)
+        x_odd_threats_wto_o_threats_under = sum(1 for t in self.x_threats if t.index.row % 2 == 1 and not threats_under(t, self.o_threats, 0))
+        o_odd_threats = count_threats(self.o_threats, 1)
+        o_even_threats = count_threats(self.o_threats, 0)
+
+        for xt in self.x_threats:
+            if (
+                    xt.index.row % 2 == 1 and 
+                    not threats_under(xt, self.o_threats, 0) and
+                    {ot for ot in self.o_threats if ot.index.row % 2 == 1 and ot.index.col != xt.index.col} == set()
+                    ) or ( x_odd_threats_wto_o_threats_under > o_odd_threats and o_even_threats == 0):
+                return 100
+        if o_even_threats > 0:
+            return -100
+        return 0
 
     def get_column(self, i) -> list[tuple(int,int)]:
         ret = []
@@ -217,18 +252,18 @@ class Board:
         return ret
             
 
-    def get_primary_diagonal(self, index: tuple(int, int)) -> list[tuple(int,int)]:
+    def get_primary_diagonal(self, index: Index) -> list[Index]:
         ret = []
-        while index[0] != -1 and index[1] != -1 and index[0] != HEIGHT and index[1] != WIDTH:
+        while index.row != -1 and index.col != -1 and index.row != HEIGHT and index.col != WIDTH:
             ret.append(index)
-            index = (index[0] + 1, index[1] + 1)
+            index = Index(index.row + 1, index.col + 1)
         return ret
 
-    def get_secondary_diagonal(self, index: tuple(int, int)) -> list[tuple(int,int)]:
+    def get_secondary_diagonal(self, index: Index) -> list[tuple(int,int)]:
         ret = []
-        while index[0] != -1 and index[1] != -1 and index[0] != HEIGHT and index[1] != WIDTH:
+        while index.row != -1 and index.col != -1 and index.row != HEIGHT and index.col != WIDTH:
             ret.append(index)
-            index = (index[0] + 1, index[1] - 1)
+            index = Index(index.row + 1, index.col - 1)
         return ret
 
 

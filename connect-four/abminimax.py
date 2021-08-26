@@ -1,7 +1,7 @@
 from board import *
 
 def ab_minimax(board: Board, depth: int, alpha: int, beta: int, MAXIMIZING: bool):
-    if depth == 0 or abs(board.value) == math.inf:
+    if depth == 0 or board.game_over():
         return board.value,board
     next_states = board.get_next_states()
     if next_states == []:
