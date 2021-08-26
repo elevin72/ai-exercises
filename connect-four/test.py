@@ -20,12 +20,12 @@ from abminimax import *
 
 
 b = Board(
-       [' O X X ',
-        ' X X O ',
-        'XO O X ',
-        'OO O O ',
-        'OO XOX ',
-        'XX OXX '],
+       ['       ',
+        '       ',
+        '       ',
+        '   O O ',
+        ' O X X ',
+        ' X O X '],
         'X')
 a = ab_minimax(b, 2, -math.inf, math.inf, b.turn == 'X')[1]
 b.evaluate()

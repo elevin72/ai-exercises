@@ -13,7 +13,7 @@ GRID_HEIGHT = 300
 GRID_WIDTH = 350
 WINDOW_HEIGHT = 400
 WINDOW_WIDTH = 400
-DEPTH=2
+DEPTH=4
 
 def main():
     global SCREEN, CLOCK
@@ -30,7 +30,7 @@ def main():
             b.print()
             print("game over")
             game_over(b)
-            time.sleep(5)
+            time.sleep(3)
             exit()
         if b.turn != human:
             if not p:

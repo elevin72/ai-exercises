@@ -8,10 +8,10 @@ WIDTH = 7
 HEIGHT = 6
 
 combos = {
-        ' XXX':  30,
-        'X XX':  30,
-        'XX X':  30,
-        'XXX ':  30,
+        ' XXX':  10,
+        'X XX':  10,
+        'XX X':  10,
+        'XXX ':  10,
         'XX  ':  5,
         ' XX ':  5,
         '  XX':  5,
@@ -23,10 +23,10 @@ combos = {
         '  X ':  1,
         '   X':  1,
 
-        ' OOO':  -30,
-        'O OO':  -30,
-        'OO O':  -30,
-        'OOO ':  -30,
+        ' OOO':  -10,
+        'O OO':  -10,
+        'OO O':  -10,
+        'OOO ':  -10,
         'OO  ':  -5,
         ' OO ':  -5,
         '  OO':  -5,
@@ -131,8 +131,6 @@ class Board:
         return False
 
     def evaluate(self) -> int:
-        if self.check_for_tie():
-            return 0
 
         value = 0
         self.x_threats = set()
@@ -148,7 +146,6 @@ class Board:
 
         # diagonal top-left to bottom-right
         for i in range(4):
-            idx = Index(0,i)
             value += self.contains_value(self.get_primary_diagonal(Index(0,i)))
         for i in range(1,3):
             value += self.contains_value(self.get_primary_diagonal(Index(i,0)))
@@ -162,7 +159,11 @@ class Board:
         # check threats
         value += self._check_threats1(self.x_threats)
         value += self._check_threats1(self.o_threats)
-        # value += self._check_threats2()
+        value += self._check_threats2(self.x_threats, 1)
+        value += self._check_threats2(self.o_threats, 0)
+
+        if self.end_state == None and self.check_for_tie():
+            return 0
 
         return value
 
@@ -186,6 +187,7 @@ class Board:
                     return -math.inf 
         return 0
 
+    # save local threats, and pre-threats
     def contains_value(self, indices: list[Index]) -> int:
         line = self._stringify(indices)
         value = 0
@@ -207,43 +209,33 @@ class Board:
 
     def _check_threats1(self, threats: set[Threat]) -> int:
         immediates = 0
+        value = 0
         for t1 in threats:
             if t1.index.row == HEIGHT - 1 or self.board[t1.index.row + 1][t1.index.col] != ' ':
                 if t1.turn == self.turn:
-                    return 100_000 * self.factor
+                    value += 10000 * self.factor
                 immediates += 1
             if immediates > 1:
-                return 100_000 * self.factor
+                value += 10000 * self.factor
             for t2 in threats:
                 if t1.is_one_away(t2):
-                    return 100 * self.factor * (t1.index.row + t2.index.row) # a lil janky
-        return 0
+                    if t1.turn == 'X':
+                        factor = 1
+                    else:
+                        factor = -1
+                    value += 100 * factor # * (t1.index.row + t2.index.row) # a lil janky
+        return value
 
-    def _check_threats2(self):
-        def threats_under(threat, o_threats, parity) -> bool:
-            if threat.index.row == HEIGHT:
-                return False
-            for row in range(threat.index.row + 1, HEIGHT+1):
-                for ot in o_threats:
-                    if ot.index.row < row and ot.index.col == ot.index.col and ot.index.row % 2 == parity:
-                        return True
-            return False
-
-        count_threats = lambda threats, parity: sum(1 for t in threats if t.index.row % 2 == parity)
-        x_odd_threats_wto_o_threats_under = sum(1 for t in self.x_threats if t.index.row % 2 == 1 and not threats_under(t, self.o_threats, 0))
-        o_odd_threats = count_threats(self.o_threats, 1)
-        o_even_threats = count_threats(self.o_threats, 0)
-
-        for xt in self.x_threats:
-            if (
-                    xt.index.row % 2 == 1 and 
-                    not threats_under(xt, self.o_threats, 0) and
-                    {ot for ot in self.o_threats if ot.index.row % 2 == 1 and ot.index.col != xt.index.col} == set()
-                    ) or ( x_odd_threats_wto_o_threats_under > o_odd_threats and o_even_threats == 0):
-                return 100
-        if o_even_threats > 0:
-            return -100
-        return 0
+    def _check_threats2(self, threats: set[Threat], parity) -> int:
+        value = 0
+        for threat in threats:
+            if threat.index.row % 2 == parity:
+                if threat.turn == 'X':
+                    factor = 1
+                else:
+                    factor = -1
+                value += 1000 * threat.index.row * factor 
+        return value
 
     def get_column(self, i) -> list[tuple(int,int)]:
         ret = []
@@ -269,3 +261,29 @@ class Board:
 
 
 
+                
+
+        # def threats_under(threat, o_threats, parity) -> bool:
+        #     if threat.index.row == HEIGHT:
+        #         return False
+        #     for row in range(threat.index.row + 1, HEIGHT+1):
+        #         for ot in o_threats:
+        #             if ot.index.row < row and ot.index.col == ot.index.col and ot.index.row % 2 == parity:
+        #                 return True
+        #     return False
+
+        # count_threats = lambda threats, parity: sum(1 for t in threats if t.index.row % 2 == parity)
+        # x_odd_threats_wto_o_threats_under = sum(1 for t in self.x_threats if t.index.row % 2 == 1 and not threats_under(t, self.o_threats, 0))
+        # o_odd_threats = count_threats(self.o_threats, 1)
+        # o_even_threats = count_threats(self.o_threats, 0)
+
+        # for xt in self.x_threats:
+        #     if (
+        #             xt.index.row % 2 == 1 and 
+        #             not threats_under(xt, self.o_threats, 0) and
+        #             {ot for ot in self.o_threats if ot.index.row % 2 == 1 and ot.index.col != xt.index.col} == set()
+        #             ) or ( x_odd_threats_wto_o_threats_under > o_odd_threats and o_even_threats == 0):
+        #         return 100
+        # if o_even_threats > 0:
+        #     return -100
+        # return 0
