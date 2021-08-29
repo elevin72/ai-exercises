@@ -3,6 +3,7 @@ import sys
 from board import *
 from abminimax import *
 import time
+from client import Client
 
 BLACK = (0,0,0)
 GREY = (152, 158, 158)
@@ -23,37 +24,45 @@ def main():
     SCREEN.fill(GREY)
     b = Board()
     human,ai = get_player()
+    client = get_client()
     p = False
 
     while True:
-        if b.end_state != None:
+        if b.end_state != EndState.NOT_DONE:
             b.print()
             print("game over")
             game_over(b)
-            time.sleep(3)
+            time.sleep(7)
             exit()
         if b.turn != human:
             if not p:
                 b.print()
                 p = True
             a,b = ab_minimax(b, DEPTH, -math.inf, math.inf, ai == 'X')
-            print('Value:', a)
-        for event in pg.event.get():
-            if event.type == pg.QUIT:
-                pg.quit()
-                sys.exit()
-            if event.type == pg.MOUSEBUTTONDOWN:
-                pos = pg.mouse.get_pos()
-                if (pos[1] > 0 and pos[1] < WINDOW_HEIGHT and
-                        pos[0] > 0 and pos[0] < WINDOW_WIDTH and
-                        b.turn == human):
-                    move = ( pos[0] - 25 ) // 50
-                    print('move:', move)
-                    if b.is_legal_move(move):
-                        if p:
-                            b.print()
-                            p = False
-                        b = b.play(move)
+            print('Minimax value:', a)
+            print('Heuristic Value:', b.evaluate())
+            # time.sleep(1)
+        else:
+            b = client.play(b)
+
+            
+        # for event in pg.event.get():
+        #     if event.type == pg.QUIT:
+        #         pg.quit()
+        #         sys.exit()
+        #     if event.type == pg.MOUSEBUTTONDOWN:
+        #         pos = pg.mouse.get_pos()
+        #         if (pos[1] > 0 and pos[1] < WINDOW_HEIGHT and
+        #                 pos[0] > 0 and pos[0] < WINDOW_WIDTH and
+        #                 b.turn == human):
+        #             move = ( pos[0] - 25 ) // 50
+        #             print('move:', move)
+        #             if b.is_legal_move(move):
+        #                 if p:
+        #                     b.print()
+        #                     p = False
+        #                 b = b.play(move)
+        #                 print('Heuristic Value:', b.evaluate())
         drawGrid()
         drawCircles(b)
         pg.display.update()
@@ -74,9 +83,12 @@ def drawCircles(b):
             if space == 'O':
                 pg.draw.circle(SCREEN, YELLOW, ((j+1)*50, (i+1)*50), 20)
 
-# def game_over(b):
 
 
+def get_client():
+    client = Client("10.7.11.153")
+    client.connect(("10.7.11.27", 6969))
+    return client
 
 def get_player():
     r = pg.Rect(0, 0, WINDOW_WIDTH/2, WINDOW_HEIGHT)
@@ -108,11 +120,11 @@ def get_player():
 
 
 def game_over(board: Board):
-    if board.end_state == EndState.X_win:
+    if board.end_state == EndState.X_WIN:
         print("X/Red Won!")
-    if board.end_state == EndState.O_win:
+    if board.end_state == EndState.O_WIN:
         print("O/Yellow Won!")
-    if board.end_state == EndState.tie:
+    if board.end_state == EndState.TIE:
         print("Its a tie!")
 
 

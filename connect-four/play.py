@@ -32,11 +32,11 @@ while True:
         board = ab_minimax(board, DEPTH, -math.inf, math.inf, user == 'O')[1]
 
 board.print()
-if board.end_state == EndState.X_win:
+if board.end_state == EndState.X_WIN:
     print("Player X won")
-if board.end_state == EndState.O_win:
+if board.end_state == EndState.O_WIN:
     print("Player O won")
-if board.end_state == EndState.tie:
+if board.end_state == EndState.TIE:
     print("It's a tie")
 # else:
 #     print("Better luck next time")

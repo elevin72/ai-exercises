@@ -1,42 +1,31 @@
+from network_player import Address, NetworkPlayer
+from typing import Optional
 import socket
-import player
-
-CLIENT_HOST = ''
-CLIENT_PORT = 4000
-SERVER_HOST = ''
-SERVER_PORT = 4001
-
-class RemotePlayer:
-
-    def send_to():
-        pass
-
-    def recv_from():
-        pass
-
-def Main():
-
-    host = CLIENT_HOST #client ip
-    port = CLIENT_PORT
-    
-    server = (SERVER_HOST, SERVER_PORT)
-    
-    sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-    sock.bind((host,port))
-
-    sock.connect(server)
 
 
-    
-    message = input(" ")
-    while message !='q':
-        sock.sendall(message.encode('utf-8'))
-        data, addr = sock.recvfrom(1024)
-        data = data.decode('utf-8')
-        print("Received from server: " + data)
-        message = input("-> ")
-    sock.close()
+class Client(NetworkPlayer):
+	def __init__(self, symbol: str):
+		super().__init__(symbol)
+		self.__server: Optional[Address] = None
 
-if __name__=='__main__':
-    Main()
+	@property
+	def other_side(self) -> Optional[Address]:
+		return self.__server
 
+	def connect(self, server: Optional[Address]) -> None:
+		"""Establish a connection with the given server by sending it a message "@host_name".
+
+		Args:
+			server (Address): The address of the server to connect to.
+
+		Raises:
+			ValueError: If server is not provided.
+		"""
+		if server is None:
+			raise ValueError("Error: Client needs the server's address.")
+		self.__server = server
+		name = "@" + socket.gethostname()
+		self.socket.sendto(name.encode("utf-8"), self.__server)
+
+	def __str__(self) -> str:
+		return "Client"

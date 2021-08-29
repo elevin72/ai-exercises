@@ -1,0 +1,531 @@
+pygame 2.0.1 (SDL 2.0.14, Python 3.9.6)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+move: 2
+Value: 5
+
+O to play
+6| | | | | | | |
+5| | | | | | | |
+4| | | | | | | |
+3| | | | | | | |
+2| | | | | | | |
+1| | |X| | | | |
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['       ',
+        '       ',
+        '       ',
+        '       ',
+        '       ',
+        '  X    '],
+        'O')
+Value: 11
+move: 3
+
+X to play
+6| | | | | | | |
+5| | | | | | | |
+4| | | | | | | |
+3| | | | | | | |
+2| | | | | | | |
+1| | |X|O| | | |
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['       ',
+        '       ',
+        '       ',
+        '       ',
+        '       ',
+        '  XO   '],
+        'X')
+Value: 11
+
+O to play
+6| | | | | | | |
+5| | | | | | | |
+4| | | | | | | |
+3| | | | | | | |
+2| | | |X| | | |
+1| | |X|O| | | |
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['       ',
+        '       ',
+        '       ',
+        '       ',
+        '   X   ',
+        '  XO   '],
+        'O')
+Value: 16
+move: 2
+
+X to play
+6| | | | | | | |
+5| | | | | | | |
+4| | | | | | | |
+3| | | | | | | |
+2| | |O|X| | | |
+1| | |X|O| | | |
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['       ',
+        '       ',
+        '       ',
+        '       ',
+        '  OX   ',
+        '  XO   '],
+        'X')
+Value: 16
+
+O to play
+6| | | | | | | |
+5| | | | | | | |
+4| | | | | | | |
+3| | |X| | | | |
+2| | |O|X| | | |
+1| | |X|O| | | |
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['       ',
+        '       ',
+        '       ',
+        '  X    ',
+        '  OX   ',
+        '  XO   '],
+        'O')
+Value: 30
+move: 4
+
+X to play
+6| | | | | | | |
+5| | | | | | | |
+4| | | | | | | |
+3| | |X| | | | |
+2| | |O|X| | | |
+1| | |X|O|O| | |
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['       ',
+        '       ',
+        '       ',
+        '  X    ',
+        '  OX   ',
+        '  XOO  '],
+        'X')
+Value: 15
+
+O to play
+6| | | | | | | |
+5| | | | | | | |
+4| | | | | | | |
+3| | |X| | | | |
+2| | |O|X|X| | |
+1| | |X|O|O| | |
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['       ',
+        '       ',
+        '       ',
+        '  X    ',
+        '  OXX  ',
+        '  XOO  '],
+        'O')
+Value: 20
+move: 6
+
+X to play
+6| | | | | | | |
+5| | | | | | | |
+4| | | | | | | |
+3| | |X| | | | |
+2| | |O|X|X| | |
+1| | |X|O|O|O| |
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['       ',
+        '       ',
+        '       ',
+        '  X    ',
+        '  OXX  ',
+        '  XOOO '],
+        'X')
+Value: 20
+
+O to play
+6| | | | | | | |
+5| | | | | | | |
+4| | | | | | | |
+3| | |X| | | | |
+2| | |O|X|X| | |
+1| | |X|O|O|O|X|
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['       ',
+        '       ',
+        '       ',
+        '  X    ',
+        '  OXX  ',
+        '  XOOOX'],
+        'O')
+Value: 57
+move: 4
+
+X to play
+6| | | | | | | |
+5| | | | | | | |
+4| | | | | | | |
+3| | |X| |O| | |
+2| | |O|X|X| | |
+1| | |X|O|O|O|X|
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['       ',
+        '       ',
+        '       ',
+        '  X O  ',
+        '  OXX  ',
+        '  XOOOX'],
+        'X')
+Value: 15
+
+O to play
+6| | | | | | | |
+5| | | | | | | |
+4| | | | |X| | |
+3| | |X| |O| | |
+2| | |O|X|X| | |
+1| | |X|O|O|O|X|
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['       ',
+        '       ',
+        '    X  ',
+        '  X O  ',
+        '  OXX  ',
+        '  XOOOX'],
+        'O')
+Value: 21
+move: 5
+
+X to play
+6| | | | | | | |
+5| | | | | | | |
+4| | | | |X| | |
+3| | |X| |O| | |
+2| | |O|X|X|O| |
+1| | |X|O|O|O|X|
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['       ',
+        '       ',
+        '    X  ',
+        '  X O  ',
+        '  OXXO ',
+        '  XOOOX'],
+        'X')
+Value: 17
+
+O to play
+6| | | | | | | |
+5| | | | | | | |
+4| | | | |X| | |
+3| | |X| |O|X| |
+2| | |O|X|X|O| |
+1| | |X|O|O|O|X|
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['       ',
+        '       ',
+        '    X  ',
+        '  X OX ',
+        '  OXXO ',
+        '  XOOOX'],
+        'O')
+Value: 30
+move: 6
+
+X to play
+6| | | | | | | |
+5| | | | | | | |
+4| | | | |X| | |
+3| | |X| |O|X| |
+2| | |O|X|X|O|O|
+1| | |X|O|O|O|X|
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['       ',
+        '       ',
+        '    X  ',
+        '  X OX ',
+        '  OXXOO',
+        '  XOOOX'],
+        'X')
+Value: 13
+
+O to play
+6| | | | | | | |
+5| | | | | | | |
+4| | | | |X| | |
+3| | |X| |O|X|X|
+2| | |O|X|X|O|O|
+1| | |X|O|O|O|X|
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['       ',
+        '       ',
+        '    X  ',
+        '  X OXX',
+        '  OXXOO',
+        '  XOOOX'],
+        'O')
+Value: 20
+move: 5
+
+X to play
+6| | | | | | | |
+5| | | | | | | |
+4| | |O| |X| | |
+3| | |X| |O|X|X|
+2| | |O|X|X|O|O|
+1| | |X|O|O|O|X|
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['       ',
+        '       ',
+        '  O X  ',
+        '  X OXX',
+        '  OXXOO',
+        '  XOOOX'],
+        'X')
+Value: 17
+
+O to play
+6| | | | | | | |
+5| | | | | | | |
+4| | |O| |X|X| |
+3| | |X| |O|X|X|
+2| | |O|X|X|O|O|
+1| | |X|O|O|O|X|
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['       ',
+        '       ',
+        '  O XX ',
+        '  X OXX',
+        '  OXXOO',
+        '  XOOOX'],
+        'O')
+Value: -388
+move: 5
+
+X to play
+6| | | | | | | |
+5| | |O| | | | |
+4| | |O| |X|X| |
+3| | |X| |O|X|X|
+2| | |O|X|X|O|O|
+1| | |X|O|O|O|X|
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['       ',
+        '  O    ',
+        '  O XX ',
+        '  X OXX',
+        '  OXXOO',
+        '  XOOOX'],
+        'X')
+Value: -885
+
+O to play
+6| | | | | | | |
+5| | |O| | |X| |
+4| | |O| |X|X| |
+3| | |X| |O|X|X|
+2| | |O|X|X|O|O|
+1| | |X|O|O|O|X|
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['       ',
+        '  O  X ',
+        '  O XX ',
+        '  X OXX',
+        '  OXXOO',
+        '  XOOOX'],
+        'O')
+Value: -390
+move: 6
+
+X to play
+6| | | | | |O| |
+5| | |O| | |X| |
+4| | |O| |X|X| |
+3| | |X| |O|X|X|
+2| | |O|X|X|O|O|
+1| | |X|O|O|O|X|
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['     O ',
+        '  O  X ',
+        '  O XX ',
+        '  X OXX',
+        '  OXXOO',
+        '  XOOOX'],
+        'X')
+Value: -889
+
+O to play
+6| | | | | |O| |
+5| | |O| | |X| |
+4| | |O| |X|X|X|
+3| | |X| |O|X|X|
+2| | |O|X|X|O|O|
+1| | |X|O|O|O|X|
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['     O ',
+        '  O  X ',
+        '  O XXX',
+        '  X OXX',
+        '  OXXOO',
+        '  XOOOX'],
+        'O')
+Value: -845
+move: 4
+
+X to play
+6| | |O| | |O| |
+5| | |O| | |X| |
+4| | |O| |X|X|X|
+3| | |X| |O|X|X|
+2| | |O|X|X|O|O|
+1| | |X|O|O|O|X|
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['  O  O ',
+        '  O  X ',
+        '  O XXX',
+        '  X OXX',
+        '  OXXOO',
+        '  XOOOX'],
+        'X')
+Value: -845
+
+O to play
+6| | |O| | |O| |
+5| | |O| |X|X| |
+4| | |O| |X|X|X|
+3| | |X| |O|X|X|
+2| | |O|X|X|O|O|
+1| | |X|O|O|O|X|
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['  O  O ',
+        '  O XX ',
+        '  O XXX',
+        '  X OXX',
+        '  OXXOO',
+        '  XOOOX'],
+        'O')
+Value: -848
+move: 6
+
+X to play
+6| | |O| | |O| |
+5| | |O| |X|X|O|
+4| | |O| |X|X|X|
+3| | |X| |O|X|X|
+2| | |O|X|X|O|O|
+1| | |X|O|O|O|X|
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['  O  O ',
+        '  O XXO',
+        '  O XXX',
+        '  X OXX',
+        '  OXXOO',
+        '  XOOOX'],
+        'X')
+Value: -9310
+
+O to play
+6| | |O| | |O|X|
+5| | |O| |X|X|O|
+4| | |O| |X|X|X|
+3| | |X| |O|X|X|
+2| | |O|X|X|O|O|
+1| | |X|O|O|O|X|
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['  O  OX',
+        '  O XXO',
+        '  O XXX',
+        '  X OXX',
+        '  OXXOO',
+        '  XOOOX'],
+        'O')
+Value: 99989148
+move: 3
+
+X to play
+6| | |O| | |O|X|
+5| | |O| |X|X|O|
+4| | |O| |X|X|X|
+3| | |X| |O|X|X|
+2| | |O|X|X|O|O|
+1|O| |X|O|O|O|X|
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['  O  OX',
+        '  O XXO',
+        '  O XXX',
+        '  X OXX',
+        '  OXXOO',
+        'O XOOOX'],
+        'X')
+Value: 99989148
+
+O to play
+6| | |O| | |O|X|
+5| | |O| |X|X|O|
+4| | |O| |X|X|X|
+3| | |X|X|O|X|X|
+2| | |O|X|X|O|O|
+1|O| |X|O|O|O|X|
+  1 2 3 4 5 6 7
+
+b = Board(
+       ['  O  OX',
+        '  O XXO',
+        '  O XXX',
+        '  XXOXX',
+        '  OXXOO',
+        'O XOOOX'],
+        'O')
+game over
+X/Red Won!

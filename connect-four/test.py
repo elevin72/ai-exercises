@@ -17,16 +17,26 @@ from abminimax import *
 #         'OXOO OO',
 #         'XOXOOXO',
 #         'XOOOXXX'],
-
+#b = Board(
+#       ['       ',
+#        '       ',
+#        '       ',
+#        '       ',
+#        '       ',
+#        '       '],
+#        'X')
 
 b = Board(
-       ['       ',
-        '       ',
-        '       ',
-        '   O O ',
-        ' O X X ',
-        ' X O X '],
-        'X')
+       ['  XX   ',
+        '  OO   ',
+        ' XOO   ',
+        ' OOX   ',
+        ' XXO   ',
+        ' XOXXXO'],
+        'O')
+
+b.evaluate()
+
 a = ab_minimax(b, 2, -math.inf, math.inf, b.turn == 'X')[1]
 b.evaluate()
 
