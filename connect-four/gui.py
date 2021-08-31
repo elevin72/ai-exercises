@@ -3,6 +3,8 @@ import sys
 from board import *
 from abminimax import *
 import time
+from guiPlayer import *
+from aiPlayer import *
 
 BLACK = (0,0,0)
 GREY = (152, 158, 158)
@@ -13,50 +15,52 @@ GRID_HEIGHT = 300
 GRID_WIDTH = 350
 WINDOW_HEIGHT = 400
 WINDOW_WIDTH = 400
-DEPTH=4
+DEPTH=2
 
-def main():
-    global SCREEN, CLOCK
-    pg.init()
-    SCREEN = pg.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
-    CLOCK = pg.time.Clock()
-    SCREEN.fill(GREY)
-    b = Board()
-    human,ai = get_player()
-    p = False
+global SCREEN, CLOCK
+pg.init()
+SCREEN = pg.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
+CLOCK = pg.time.Clock()
+SCREEN.fill(GREY)
 
+def get_player() -> tuple[Player, Player]:
+    r = pg.Rect(0, 0, WINDOW_WIDTH/2, WINDOW_HEIGHT)
+    y = pg.Rect(WINDOW_WIDTH/2, 0, WINDOW_WIDTH/2, WINDOW_HEIGHT)
+    pg.draw.rect(SCREEN, RED, r)
+    pg.draw.rect(SCREEN, YELLOW, y)
+    pg.display.update()
+    def done(human, ai):
+        SCREEN.fill(GREY)
+        pg.display.update()
+        return human,ai
     while True:
-        if b.end_state != None:
-            b.print()
-            print("game over")
-            game_over(b)
-            time.sleep(3)
-            exit()
-        if b.turn != human:
-            if not p:
-                b.print()
-                p = True
-            a,b = ab_minimax(b, DEPTH, -math.inf, math.inf, ai == 'X')
-            print('Value:', a)
         for event in pg.event.get():
             if event.type == pg.QUIT:
                 pg.quit()
                 sys.exit()
             if event.type == pg.MOUSEBUTTONDOWN:
                 pos = pg.mouse.get_pos()
-                if (pos[1] > 0 and pos[1] < WINDOW_HEIGHT and
-                        pos[0] > 0 and pos[0] < WINDOW_WIDTH and
-                        b.turn == human):
-                    move = ( pos[0] - 25 ) // 50
-                    print('move:', move)
-                    if b.is_legal_move(move):
-                        if p:
-                            b.print()
-                            p = False
-                        b = b.play(move)
-        drawGrid()
-        drawCircles(b)
-        pg.display.update()
+                if (pos[0] > 0 and pos[0] < WINDOW_WIDTH/2 and
+                    pos[1] > 0 and pos[1] < WINDOW_HEIGHT
+                    ):
+                    human = GuiPlayer((WINDOW_HEIGHT, WINDOW_WIDTH), 'X')
+                    ai = AiPlayer(DEPTH, 'O')
+                    return done(human, ai)
+                elif (pos[0] > WINDOW_WIDTH/2 and pos[0] < WINDOW_WIDTH and
+                    pos[1] > 0 and pos[1] < WINDOW_HEIGHT
+                    ):
+                    human = GuiPlayer((WINDOW_HEIGHT, WINDOW_WIDTH), 'O')
+                    ai = AiPlayer(DEPTH, 'X')
+                    return done(human, ai)
+
+def game_over(board: Board):
+    print("game over")
+    if board.end_state == EndState.X_win:
+        print("X/Red Won!")
+    if board.end_state == EndState.O_win:
+        print("O/Yellow Won!")
+    if board.end_state == EndState.tie:
+        print("Its a tie!")
 
 def drawGrid():
     blockSize = 50 #Set the size of the grid block
@@ -74,47 +78,25 @@ def drawCircles(b):
             if space == 'O':
                 pg.draw.circle(SCREEN, YELLOW, ((j+1)*50, (i+1)*50), 20)
 
-# def game_over(b):
+
+def main():
+    board = Board()
+    human,ai = get_player()
+    while True:
+        drawGrid()
+        drawCircles(board)
+        pg.display.update()
+        if board.end_state != None:
+            board.print()
+            game_over(board)
+            time.sleep(3)
+            exit()
+        if board.turn == ai.color:
+            minimax_value, board = ai.play(board)
+            print('Value:', minimax_value)
+        else:
+            board = human.play(board)
 
 
-
-def get_player():
-    r = pg.Rect(0, 0, WINDOW_WIDTH/2, WINDOW_HEIGHT)
-    y = pg.Rect(WINDOW_WIDTH/2, 0, WINDOW_WIDTH/2, WINDOW_HEIGHT)
-    pg.draw.rect(SCREEN, RED, r)
-    pg.draw.rect(SCREEN, YELLOW, y)
-    pg.display.update()
-    user = None
-    while user == None:
-        for event in pg.event.get():
-            if event.type == pg.QUIT:
-                pg.quit()
-                sys.exit()
-            if event.type == pg.MOUSEBUTTONDOWN:
-                pos = pg.mouse.get_pos()
-                if (pos[0] > 0 and pos[0] < WINDOW_WIDTH/2 and
-                    pos[1] > 0 and pos[1] < WINDOW_HEIGHT
-                    ):
-                    user = 'X'
-                    ai = 'O'
-                elif (pos[0] > WINDOW_WIDTH/2 and pos[0] < WINDOW_WIDTH and
-                    pos[1] > 0 and pos[1] < WINDOW_HEIGHT
-                    ):
-                    user = 'O'
-                    ai = 'X'
-    SCREEN.fill(GREY)
-    pg.display.update()
-    return user,ai
-
-
-def game_over(board: Board):
-    if board.end_state == EndState.X_win:
-        print("X/Red Won!")
-    if board.end_state == EndState.O_win:
-        print("O/Yellow Won!")
-    if board.end_state == EndState.tie:
-        print("Its a tie!")
-
-
-
-main()
+if __name__ == '__main__':
+    main()

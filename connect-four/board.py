@@ -287,3 +287,4 @@ class Board:
         # if o_even_threats > 0:
         #     return -100
         # return 0
+ 
