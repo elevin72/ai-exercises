@@ -1,44 +1,26 @@
 from abminimax import *
 
-
-# b = Board(
-#        [' OXX OO',
-#         'OXXO XX',
-#         'XXOX OX',
-#         'OXOO OO',
-#         'XOXO XO',
-#         'XOOOXXX'],
-#         'X')
-
-# b = Board(
-#        ['XOXX OO',
-#         'OXXO XX',
-#         'XXOX OX',
-#         'OXOO OO',
-#         'XOXOOXO',
-#         'XOOOXXX'],
-
-
 b = Board(
        ['       ',
         '       ',
-        '       ',
-        '   O O ',
-        ' O X X ',
-        ' X O X '],
-        'X')
-a = ab_minimax(b, 2, -math.inf, math.inf, b.turn == 'X')[1]
+        '   O X ',
+        '  XO O ',
+        '  OX X ',
+        '  XO X '],
+        'O')
 b.evaluate()
 
-c = Board(
-        ['       ',
-         '   X   ',
-         '   OO  ',
-         '  OOX  ',
-         '  XXO  ',
-         ' XXOXO '],
-        'O')
-
+a,b = ab_minimax(b, 2, -math.inf, math.inf, False)
+b = Board(
+       ['       ',
+        '     O ',
+        '   O X ',
+        '  XO O ',
+        '  OX X ',
+        '  XO X '],
+        'X')
+b.evaluate()
+a,b = ab_minimax(b, 2, -math.inf, math.inf, True)
 
 # for _ in range(100):
 #     d = ab_minimax(b, 2, -math.inf, math.inf, True)[1]

@@ -53,13 +53,14 @@ def get_player() -> tuple[Player, Player]:
                     ai = AiPlayer(DEPTH, 'X')
                     return done(human, ai)
 
-def game_over(board: Board):
+def do_game_over(board: Board):
+    board.print()
     print("game over")
-    if board.end_state == EndState.X_win:
+    if board.end_state == EndState.X_WIN:
         print("X/Red Won!")
-    if board.end_state == EndState.O_win:
+    if board.end_state == EndState.O_WIN:
         print("O/Yellow Won!")
-    if board.end_state == EndState.tie:
+    if board.end_state == EndState.TIE:
         print("Its a tie!")
 
 def drawGrid():
@@ -86,16 +87,19 @@ def main():
         drawGrid()
         drawCircles(board)
         pg.display.update()
-        if board.end_state != None:
-            board.print()
-            game_over(board)
+        if board.game_over():
+            do_game_over(board)
             time.sleep(3)
             exit()
         if board.turn == ai.color:
             minimax_value, board = ai.play(board)
+            board.print()
             print('Value:', minimax_value)
+            print('Heuristic Value:', board.evaluate())
         else:
             board = human.play(board)
+            board.print()
+            print('Heuristic Value:', board.evaluate())
 
 
 if __name__ == '__main__':
