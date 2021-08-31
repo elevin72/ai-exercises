@@ -18,7 +18,6 @@ class GuiPlayer(Player):
                     sys.exit()
                 if event.type == pg.MOUSEBUTTONDOWN:
                     pos = pg.mouse.get_pos()
-                    print(pos)
                     if (board.turn == self.color and
                             pos[1] > 0 and pos[1] < self.w_height and
                             pos[0] > 0 and pos[0] < self.w_width):
